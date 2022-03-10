@@ -2,15 +2,20 @@
 
 Aqui deixarei registrado todos os projetos desenvolvidos ao longo do curso, com uma breve descrição do que foi aprendido em cada um dos blocos.
 
+<hr>
+
 ## Introdução
 
 O curso da Trybe foi criado para pessoas que desejam seguir uma carreira em tecnologia. O programa conta com mais de 1.500 horas de aulas presenciais e on-line e aborda introdução ao desenvolvimento de software, front-end, back-end, ciência da computação, engenharia de software, metodologias ágeis e habilidades comportamentais. O currículo da Trybe foi desenhado em parceria com as maiores empresas de tecnologia do Brasil e do mundo e ao longo da formação, estudamos JavaScript, HTML, CSS, React, Node, Express.js, SQL, Git, entre outras linguagens e frameworks.
 
+<hr>
 
 ## Período de duração
 
 - Início: 06/04/2021
 - Conclusão: 06/04/2022
+
+<hr>
 
 ## Formação
 
@@ -97,4 +102,10 @@ Criação de testes automatizados usando a biblioteca Jest, praticamos Jest ass�
 <a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="nodejs" width="25" height="25"/></a>
 <a href="https://jestjs.io"><img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" title="Jest" alt="jest" width="25" height="25"/></a> 
 
-## Certificado do módulo de Fundamentos
+<hr>
+
+## Certificados
+
+### Módulo Fundamentos do Desenvolvimento Web
+
+<img src="https://github.com/willian-prado/trybe-records/blob/main/certificates/trybe-modulo-fundamentos.png?raw=true" height="500"/>
