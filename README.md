@@ -109,3 +109,11 @@ Criação de testes automatizados usando a biblioteca Jest, praticamos Jest ass�
 ### Módulo Fundamentos do Desenvolvimento Web
 
 <img src="https://github.com/willian-prado/trybe-records/blob/main/certificates/trybe-modulo-fundamentos.png?raw=true" height="500"/>
+
+### Módulo Desenvolvimento Front-end
+
+<img src="https://github.com/willian-prado/trybe-records/blob/main/certificates/trybe-modulo-frontend.png?raw=true" height="500"/>
+
+### Módulo Desenvolvimento Back-end
+
+<img src="https://github.com/willian-prado/trybe-records/blob/main/certificates/trybe-modulo-backend.png?raw=true" height="500"/>
