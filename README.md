@@ -21,7 +21,7 @@ O curso da Trybe foi criado para pessoas que desejam seguir uma carreira em tecn
 
 O conteúdo de Hard skills é dividido em quatro módulos: Fundamentos do Desenvolvimento Web, Desenvolvimento Front-end, Desenvolvimento Back-end e Ciência da Computação.
 
-### Fundamentos do Desenvolvimento Web
+### 1 - Fundamentos do Desenvolvimento Web
 
 #### Bloco 1 - Unix & Bash
 
@@ -84,23 +84,101 @@ Conceitos de first-class function e higher order function, métodos de manipula�
 > Projeto: **[Zoo Functions](https://github.com/willian-prado/zoo-functions)** - Tecnologias:
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="javascript" width="25" height="25"/></a>
 
-#### Bloco 9 - JavaScript Assíncrono e Promises
+#### Bloco 9 - JavaScript e Testes Assíncronos
 
-Construção de código assíncrono usando callbacks e promises. 
+Construção de código assíncrono usando callbacks e promises. Criação de testes automatizados usando a biblioteca Jest, uso de Jest assíncrono e Mocks aplicados a testes em Javascript.
 
 > Projeto: **[Shopping Cart](https://github.com/willian-prado/shopping-cart)** - Tecnologias:
 <a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="html5" width="30" height="30"/></a> 
 <a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" title="CCS3" alt="css3" width="30" height="30"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="javascript" width="25" height="25"/></a>
 
-#### Bloco 10 - Testes Automatizados com Jest
-
-Criação de testes automatizados usando a biblioteca Jest, praticamos Jest assíncrono e Mocks aplicados a testes em Javascript.
-
-> Projeto **[Jest](https://github.com/willian-prado/jest)** - Tecnologias:
+> Projeto: **[Jest](https://github.com/willian-prado/jest)** - Tecnologias:
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="javascript" width="25" height="25"/></a>
 <a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="nodejs" width="25" height="25"/></a>
 <a href="https://jestjs.io"><img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" title="Jest" alt="jest" width="25" height="25"/></a> 
+
+### 2 - Desenvolvimento Front-end
+
+#### Bloco 10 - Introdução à React
+
+Introdução à biblioteca React, uma das mais usadas para criação de interfaces web. Aqui somos apresentados aos conceitos de componentes, props e prop-types.
+
+> Projeto: **[Movie Cards Library](https://github.com/willian-prado/movie-cards-library)** - Tecnologias:
+<a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="html5" width="30" height="30"/></a> 
+<a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" title="CCS3" alt="css3" width="30" height="30"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="javascript" width="25" height="25"/></a>
+<a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" title="React" alt="react" width="30" height="30"/></a>
+
+#### Bloco 11 - Componentes com Estado, Eventos e Formulários com React
+
+Utilização de estado de componentes e captura de eventos usando a sintaxe do React. Além disso, aprendemos a fazer formulários usando JSX.
+
+> Projeto: **[Movie Cards Library Stateful](https://github.com/willian-prado/movie-cards-library-stateful)** - Tecnologias:
+<a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="html5" width="30" height="30"/></a> 
+<a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" title="CCS3" alt="css3" width="30" height="30"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="javascript" width="25" height="25"/></a>
+<a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" title="React" alt="react" width="30" height="30"/></a>
+
+#### Bloco 12 - Ciclo de Vida de Componentes e React Router
+
+Introdução aos conceitos de ciclo de vida de componentes e roteamento de páginas usando a biblioteca React Router.
+
+> Projeto: **[Movie Cards Library CRUD](https://github.com/willian-prado/movie-cards-iibrary-crud)** - Tecnologias:
+<a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="html5" width="30" height="30"/></a> 
+<a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" title="CCS3" alt="css3" width="30" height="30"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="javascript" width="25" height="25"/></a>
+<a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" title="React" alt="react" width="30" height="30"/></a>
+<a href="https://reactrouter.com/docs/en/v6/getting-started/overview"><img src="https://reacttraining.com/images/blog/reach-react-router-future.png" title="React Router" alt="react router" width="30" height="30"/></a>
+
+#### Bloco 13 - Metodologias Ágeis
+
+Aprendemos sobre os métodos ágeis, metodologia que incentiva o desenvolvimento de projetos por meio de comunicação frequente, entregas incrementais, foco no cliente e trabalho em equipe.
+
+> Projeto: **[Frontend Online Store](https://github.com/willian-prado/frontend-online-store)** - Tecnologias:
+<a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="html5" width="30" height="30"/></a> 
+<a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" title="CCS3" alt="css3" width="30" height="30"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="javascript" width="25" height="25"/></a>
+<a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" title="React" alt="react" width="30" height="30"/></a>
+<a href="https://reactrouter.com/docs/en/v6/getting-started/overview"><img src="https://reacttraining.com/images/blog/reach-react-router-future.png" title="React Router" alt="react router" width="30" height="30"/></a>
+<a href="https://trello.com/"><img src="https://trackingtime.co/wp-content/themes/trackingtime-v4/img/temp/logos/trello.png" title="Trello" alt="trello" width="25" height="25"/></a>
+
+#### Bloco 14 - Testes automatizados com React Testing Library
+
+Construção de testes automatizados utilizando RTL (React Testing Library), a biblioteca de testes recomendada pela documentação oficial do React.
+
+> Projeto: **[React Testing Library](https://github.com/willian-prado/react-testing-library)** - Tecnologias:
+<a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="html5" width="30" height="30"/></a> 
+<a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" title="CCS3" alt="css3" width="30" height="30"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="javascript" width="25" height="25"/></a>
+<a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" title="React" alt="react" width="30" height="30"/></a>
+<a href="https://reactrouter.com/docs/en/v6/getting-started/overview"><img src="https://reacttraining.com/images/blog/reach-react-router-future.png" title="React Router" alt="react router" width="30" height="30"/></a>
+<a href="https://reactjs.org/"><img src="https://testing-library.com/img/octopus-128x128.png" title="React Testing Library" alt="react testing library" width="30" height="30"/></a>
+
+#### Bloco 15 - Gerenciamento de estado com Redux
+
+Introdução à Redux, uma biblioteca de gerenciamento do estado global de ampla adoção entre as pessoas que desenvolvem em React.
+
+> Projeto: **[Trybewallet](https://github.com/willian-prado/trybewallet)** - Tecnologias:
+<a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="html5" width="30" height="30"/></a>
+<a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" title="CCS3" alt="css3" width="30" height="30"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="javascript" width="25" height="25"/></a>
+<a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" title="React" alt="react" width="30" height="30"/></a>
+<a href="https://reactrouter.com/docs/en/v6/getting-started/overview"><img src="https://reacttraining.com/images/blog/reach-react-router-future.png" title="React Router" alt="react router" width="30" height="30"/></a>
+<a href="https://redux.js.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" title="Redux" alt="redux" width="30" height="30"/></a>
+
+#### Bloco 16 - Projeto Jogo de Trivia
+
+Prática de metodologias ágeis, soft skills e React-Redux.
+
+> Projeto: **[Trivia](https://github.com/willian-prado/trivia-react-redux)** - Tecnologias:
+<a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="html5" width="30" height="30"/></a>
+<a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" title="CCS3" alt="css3" width="30" height="30"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="javascript" width="25" height="25"/></a>
+<a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" title="React" alt="react" width="30" height="30"/></a>
+<a href="https://reactrouter.com/docs/en/v6/getting-started/overview"><img src="https://reacttraining.com/images/blog/reach-react-router-future.png" title="React Router" alt="react router" width="30" height="30"/></a>
+<a href="https://redux.js.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" title="Redux" alt="redux" width="30" height="30"/></a>
+
 
 <hr>
 
@@ -117,3 +195,10 @@ Criação de testes automatizados usando a biblioteca Jest, praticamos Jest ass�
 ### Módulo Desenvolvimento Back-end
 
 <img src="https://github.com/willian-prado/trybe-records/blob/main/certificates/trybe-modulo-backend.png?raw=true" height="500"/>
+
+### Módulo Ciência da Computação
+
+<hr>
+
+## Contato
+
