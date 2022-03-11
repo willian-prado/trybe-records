@@ -112,7 +112,7 @@ Introdução à biblioteca React, uma das mais usadas para criação de interfac
 
 #### Bloco 11 - Componentes com Estado, Eventos e Formulários com React
 
-Utilização de estado de componentes e captura de eventos usando a sintaxe do React. Além disso, aprendemos a fazer formulários usando JSX.
+Utilização de estado de componentes, captura de eventos usando a sintaxe do React e construção de formulários usando JSX.
 
 > Projeto: **[Movie Cards Library Stateful](https://github.com/willian-prado/movie-cards-library-stateful)** - Tecnologias:
 <a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="html5" width="30" height="30"/></a> 
@@ -154,6 +154,7 @@ Construção de testes automatizados utilizando RTL (React Testing Library), a b
 <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" title="React" alt="react" width="30" height="30"/></a>
 <a href="https://reactrouter.com/docs/en/v6/getting-started/overview"><img src="https://reacttraining.com/images/blog/reach-react-router-future.png" title="React Router" alt="react router" width="30" height="30"/></a>
 <a href="https://reactjs.org/"><img src="https://testing-library.com/img/octopus-128x128.png" title="React Testing Library" alt="react testing library" width="30" height="30"/></a>
+<a href="https://jestjs.io"><img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" title="Jest" alt="jest" width="25" height="25"/></a> 
 
 #### Bloco 15 - Gerenciamento de estado com Redux
 
@@ -178,6 +179,34 @@ Prática de metodologias ágeis, soft skills e React-Redux.
 <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" title="React" alt="react" width="30" height="30"/></a>
 <a href="https://reactrouter.com/docs/en/v6/getting-started/overview"><img src="https://reacttraining.com/images/blog/reach-react-router-future.png" title="React Router" alt="react router" width="30" height="30"/></a>
 <a href="https://redux.js.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" title="Redux" alt="redux" width="30" height="30"/></a>
+
+#### Bloco 17 - Context API e React Hooks
+
+Introdução à funcionalidades mais avançadas em React, como: Context API, para gerenciamento do estado global da aplicação, e React Hooks, que permitem a utilização de componentes funcionais pelo acesso a métodos anteriormente restritos às classes, como o state.
+
+> Projeto: **[Star Wars Planets Search](https://github.com/willian-prado/star-wars-planets-search)** - Tecnologias:
+<a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="html5" width="30" height="30"/></a>
+<a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" title="CCS3" alt="css3" width="30" height="30"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="javascript" width="25" height="25"/></a>
+<a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" title="React" alt="react" width="30" height="30"/></a>
+
+#### Bloco 18 - Projeto App de Receitas
+
+Prática de metodologias ágeis, soft skills, React Hooks, Context API e testes unitários.
+
+> Projeto: **[Recipes App](https://github.com/willian-prado/recipes-app)** - Tecnologias:
+<a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="html5" width="30" height="30"/></a>
+<a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" title="CCS3" alt="css3" width="30" height="30"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="javascript" width="25" height="25"/></a>
+<a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" title="React" alt="react" width="30" height="30"/></a>
+<a href="https://reactrouter.com/docs/en/v6/getting-started/overview"><img src="https://reacttraining.com/images/blog/reach-react-router-future.png" title="React Router" alt="react router" width="30" height="30"/></a>
+<a href="https://reactjs.org/"><img src="https://testing-library.com/img/octopus-128x128.png" title="React Testing Library" alt="react testing library" width="30" height="30"/></a>
+<a href="https://jestjs.io"><img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" title="Jest" alt="jest" width="25" height="25"/></a> 
+
+### 3 - Desenvolvimento Back-end
+
+#### Bloco 19 - Introdução à SQL
+
 
 
 <hr>
