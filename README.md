@@ -220,7 +220,7 @@ Além disso, aprendemos a unir informações presentes em mais de uma tabela por
 > Projeto individual: **[Vocabulary Booster](https://github.com/willian-prado/mysql-vocabulary-booster)** - Tecnologias: 
 <a href="https://www.mysql.com/"><img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" title="MySQL" alt="mysql" height="25"/></a>
 
-#### Bloco 21 - 
+#### Bloco 21 - Normalização e Modelagem de Banco de Dados
 
 <hr>
 
