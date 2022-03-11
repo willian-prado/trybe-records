@@ -35,7 +35,7 @@ Introdução a Git e GitHub, o sistema de controle de versionamento de códigos 
 
 Principais tags HTML, como usar CSS para estilização e a importância de HTML semântico para acessibilidade de uma página.
 
-> Projeto: **[Lessons Learned](https://github.com/willian-prado/lessons-learned)** - Tecnologias: 
+> Projeto individual: **[Lessons Learned](https://github.com/willian-prado/lessons-learned)** - Tecnologias: 
 <a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="html5" width="30" height="30"/></a> 
 <a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" title="CCS3" alt="css3" width="30" height="30"/></a>
 
@@ -43,19 +43,19 @@ Principais tags HTML, como usar CSS para estilização e a importância de HTML 
 
 Primeiro contato com JavaScript, aprendemos sobre variáveis, constantes , tipos primitivos, tipagem dinâmica, operadores aritméticos, operadores de atribuição, operadores lógicos, estruturas condicionais, lógica de programação, estruturas de repetição e mais.
 
-> Projeto: **[Playground Functions](https://github.com/willian-prado/playground-functions)** - Tecnologias:
+> Projeto individual: **[Playground Functions](https://github.com/willian-prado/playground-functions)** - Tecnologias:
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="javascript" width="25" height="25"/></a>
 
 #### Bloco 5 - JavaScript: DOM, Eventos e Web Storage
 
 Introdução ao DOM (Document Object Model) e como manipular sua estrutura utilizando seletores e código JavaScript. Aprendemos ainda sobre como criar eventos que permitem a interação do usuário com a página e uso do Web Storage para salvar dados das pessoas nos browsers.
 
-> Projeto: **[Pixels Art](https://github.com/willian-prado/pixels-art)** - Tecnologias:
+> Projeto individual: **[Pixels Art](https://github.com/willian-prado/pixels-art)** - Tecnologias:
 <a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="html5" width="30" height="30"/></a> 
 <a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" title="CCS3" alt="css3" width="30" height="30"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="javascript" width="25" height="25"/></a>
 
-> Projeto: **[Todo List](https://github.com/willian-prado/todo-list)** - Tecnologias:
+> Projeto individual: **[Todo List](https://github.com/willian-prado/todo-list)** - Tecnologias:
 <a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="html5" width="30" height="30"/></a> 
 <a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" title="CCS3" alt="css3" width="30" height="30"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="javascript" width="25" height="25"/></a>
@@ -64,7 +64,7 @@ Introdução ao DOM (Document Object Model) e como manipular sua estrutura utili
 
 Construção de formulários HTML, uso de bibliotecas JavaScript e CSS, introdução ao modelo Flexbox de estilização e criação páginas responsivas e abordagem *mobile-first*.
 
-> Projeto: **[Trybewarts](https://github.com/willian-prado/trybewarts)** - Tecnologias:
+> Projeto em dupla: **[Trybewarts](https://github.com/willian-prado/trybewarts)** - Tecnologias:
 <a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="html5" width="30" height="30"/></a> 
 <a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" title="CCS3" alt="css3" width="30" height="30"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="javascript" width="25" height="25"/></a>
@@ -73,7 +73,7 @@ Construção de formulários HTML, uso de bibliotecas JavaScript e CSS, introdu�
 
 Uso de features introduzidas na versão ES6 do JavaScript, como `let`, `const`, `arrow functions`, `template literals`, `operador ternário`. Além disso, aprendemos métodos de manipulação de objetos e construção dos primeiros testes automatizados usando o módulo Assert.
 
-> Projeto: **[Js Unit Tests](https://github.com/willian-prado/js-unit-tests)** - Tecnologias:
+> Projeto individual: **[Js Unit Tests](https://github.com/willian-prado/js-unit-tests)** - Tecnologias:
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="javascript" width="25" height="25"/></a>
 <a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="nodejs" width="25" height="25"/></a>
 
@@ -81,19 +81,19 @@ Uso de features introduzidas na versão ES6 do JavaScript, como `let`, `const`, 
 
 Conceitos de first-class function e higher order function, métodos de manipulação de arrays, tais como forEach, map, filter, reduce, every, sort, find, entre outras.
 
-> Projeto: **[Zoo Functions](https://github.com/willian-prado/zoo-functions)** - Tecnologias:
+> Projeto individual: **[Zoo Functions](https://github.com/willian-prado/zoo-functions)** - Tecnologias:
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="javascript" width="25" height="25"/></a>
 
 #### Bloco 9 - JavaScript e Testes Assíncronos
 
 Construção de código assíncrono usando callbacks e promises. Criação de testes automatizados usando a biblioteca Jest, uso de Jest assíncrono e Mocks aplicados a testes em Javascript.
 
-> Projeto: **[Shopping Cart](https://github.com/willian-prado/shopping-cart)** - Tecnologias:
+> Projeto individual: **[Shopping Cart](https://github.com/willian-prado/shopping-cart)** - Tecnologias:
 <a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="html5" width="30" height="30"/></a> 
 <a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" title="CCS3" alt="css3" width="30" height="30"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="javascript" width="25" height="25"/></a>
 
-> Projeto: **[Jest](https://github.com/willian-prado/jest)** - Tecnologias:
+> Projeto individual: **[Jest](https://github.com/willian-prado/jest)** - Tecnologias:
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="javascript" width="25" height="25"/></a>
 <a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="nodejs" width="25" height="25"/></a>
 <a href="https://jestjs.io"><img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" title="Jest" alt="jest" width="25" height="25"/></a> 
@@ -104,7 +104,7 @@ Construção de código assíncrono usando callbacks e promises. Criação de te
 
 Introdução à biblioteca React, uma das mais usadas para criação de interfaces web. Aqui somos apresentados aos conceitos de componentes, props e prop-types.
 
-> Projeto: **[Movie Cards Library](https://github.com/willian-prado/movie-cards-library)** - Tecnologias:
+> Projeto individual: **[Movie Cards Library](https://github.com/willian-prado/movie-cards-library)** - Tecnologias:
 <a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="html5" width="30" height="30"/></a> 
 <a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" title="CCS3" alt="css3" width="30" height="30"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="javascript" width="25" height="25"/></a>
@@ -114,7 +114,7 @@ Introdução à biblioteca React, uma das mais usadas para criação de interfac
 
 Utilização de estado de componentes, captura de eventos usando a sintaxe do React e construção de formulários usando JSX.
 
-> Projeto: **[Movie Cards Library Stateful](https://github.com/willian-prado/movie-cards-library-stateful)** - Tecnologias:
+> Projeto individual: **[Movie Cards Library Stateful](https://github.com/willian-prado/movie-cards-library-stateful)** - Tecnologias:
 <a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="html5" width="30" height="30"/></a> 
 <a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" title="CCS3" alt="css3" width="30" height="30"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="javascript" width="25" height="25"/></a>
@@ -124,7 +124,7 @@ Utilização de estado de componentes, captura de eventos usando a sintaxe do Re
 
 Introdução aos conceitos de ciclo de vida de componentes e roteamento de páginas usando a biblioteca React Router.
 
-> Projeto: **[Movie Cards Library CRUD](https://github.com/willian-prado/movie-cards-iibrary-crud)** - Tecnologias:
+> Projeto individual: **[Movie Cards Library CRUD](https://github.com/willian-prado/movie-cards-iibrary-crud)** - Tecnologias:
 <a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="html5" width="30" height="30"/></a> 
 <a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" title="CCS3" alt="css3" width="30" height="30"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="javascript" width="25" height="25"/></a>
@@ -135,7 +135,7 @@ Introdução aos conceitos de ciclo de vida de componentes e roteamento de pági
 
 Aprendemos sobre os métodos ágeis, metodologia que incentiva o desenvolvimento de projetos por meio de comunicação frequente, entregas incrementais, foco no cliente e trabalho em equipe.
 
-> Projeto: **[Frontend Online Store](https://github.com/willian-prado/frontend-online-store)** - Tecnologias:
+> Projeto em grupo: **[Frontend Online Store](https://github.com/willian-prado/frontend-online-store)** - Tecnologias:
 <a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="html5" width="30" height="30"/></a> 
 <a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" title="CCS3" alt="css3" width="30" height="30"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="javascript" width="25" height="25"/></a>
@@ -147,7 +147,7 @@ Aprendemos sobre os métodos ágeis, metodologia que incentiva o desenvolvimento
 
 Construção de testes automatizados utilizando RTL (React Testing Library), a biblioteca de testes recomendada pela documentação oficial do React.
 
-> Projeto: **[React Testing Library](https://github.com/willian-prado/react-testing-library)** - Tecnologias:
+> Projeto individual: **[React Testing Library](https://github.com/willian-prado/react-testing-library)** - Tecnologias:
 <a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="html5" width="30" height="30"/></a> 
 <a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" title="CCS3" alt="css3" width="30" height="30"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="javascript" width="25" height="25"/></a>
@@ -160,7 +160,7 @@ Construção de testes automatizados utilizando RTL (React Testing Library), a b
 
 Introdução à Redux, uma biblioteca de gerenciamento do estado global de ampla adoção entre as pessoas que desenvolvem em React.
 
-> Projeto: **[Trybewallet](https://github.com/willian-prado/trybewallet)** - Tecnologias:
+> Projeto individual: **[Trybewallet](https://github.com/willian-prado/trybewallet)** - Tecnologias:
 <a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="html5" width="30" height="30"/></a>
 <a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" title="CCS3" alt="css3" width="30" height="30"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="javascript" width="25" height="25"/></a>
@@ -172,7 +172,7 @@ Introdução à Redux, uma biblioteca de gerenciamento do estado global de ampla
 
 Prática de metodologias ágeis, soft skills e React-Redux.
 
-> Projeto: **[Trivia](https://github.com/willian-prado/trivia-react-redux)** - Tecnologias:
+> Projeto em grupo: **[Trivia](https://github.com/willian-prado/trivia-react-redux)** - Tecnologias:
 <a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="html5" width="30" height="30"/></a>
 <a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" title="CCS3" alt="css3" width="30" height="30"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="javascript" width="25" height="25"/></a>
@@ -184,7 +184,7 @@ Prática de metodologias ágeis, soft skills e React-Redux.
 
 Introdução à funcionalidades mais avançadas em React, como: Context API, para gerenciamento do estado global da aplicação, e React Hooks, que permitem a utilização de componentes funcionais pelo acesso a métodos anteriormente restritos às classes, como o state.
 
-> Projeto: **[Star Wars Planets Search](https://github.com/willian-prado/star-wars-planets-search)** - Tecnologias:
+> Projeto individual: **[Star Wars Planets Search](https://github.com/willian-prado/star-wars-planets-search)** - Tecnologias:
 <a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="html5" width="30" height="30"/></a>
 <a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" title="CCS3" alt="css3" width="30" height="30"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="javascript" width="25" height="25"/></a>
@@ -194,7 +194,7 @@ Introdução à funcionalidades mais avançadas em React, como: Context API, par
 
 Prática de metodologias ágeis, soft skills, React Hooks, Context API e testes unitários.
 
-> Projeto: **[Recipes App](https://github.com/willian-prado/recipes-app)** - Tecnologias:
+> Projeto em grupo: **[Recipes App](https://github.com/willian-prado/recipes-app)** - Tecnologias:
 <a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="html5" width="30" height="30"/></a>
 <a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" title="CCS3" alt="css3" width="30" height="30"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="javascript" width="25" height="25"/></a>
@@ -207,7 +207,20 @@ Prática de metodologias ágeis, soft skills, React Hooks, Context API e testes 
 
 #### Bloco 19 - Introdução à SQL
 
+Definições sobre bancos de dados relacionais, utilizando MySQL e MySQL Workbench de forma prática. Uso de comandos básicos, como `SELECT`, `WHERE`, `ORDER BY`, `INSERT`, `UPDATE`, `DELETE`.
 
+> Projeto individual: **[All For One](https://github.com/willian-prado/mysql-all-for-one)** - Tecnologias:
+<a href="https://www.mysql.com/"><img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" title="MySQL" alt="mysql" height="25"/></a>
+
+#### Bloco 20 - Funções SQL, JOINs e Normalização
+
+Utilização de funções para manipulação de dados SQL, como funções para manipulação de strings, estruturas condicionais e funções matemáticas.
+Além disso, aprendemos a unir informações presentes em mais de uma tabela por meios dos JOINs e a criar nossas próprias funções.
+
+> Projeto individual: **[Vocabulary Booster](https://github.com/willian-prado/mysql-vocabulary-booster)** - Tecnologias: 
+<a href="https://www.mysql.com/"><img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" title="MySQL" alt="mysql" height="25"/></a>
+
+#### Bloco 21 - 
 
 <hr>
 
