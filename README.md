@@ -222,6 +222,44 @@ Além disso, aprendemos a unir informações presentes em mais de uma tabela por
 
 #### Bloco 21 - Normalização e Modelagem de Banco de Dados
 
+Construção de um banco de dados a partir de ideias ou problemas a serem resolvidos. Passamos pela identificação de entidades, relacionamentos, construção de diagramas ER (entidade-relacionamento) e tabelas normalizadas.
+
+> Projeto individual: **[One For All](https://github.com/willian-prado/mysql-one-for-all)** - Tecnologias:
+<a href="https://www.mysql.com/"><img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" title="MySQL" alt="mysql" height="25"/></a>
+
+#### Bloco 22 - Introdução ao MongoDB
+
+Conceitos sobre bancos de dados NoSQL, incluindo diferentes tipos de classes existentes. 
+Introdução ao MongoDB, um banco NoSQL da classe `Documentos`, incluindo instalação, conexão e execução de comandos básicos de leitura/escrita.
+Alguns dos comandos vistos foram `find()`, `insertOne()`, `insertMany()`, `deleteOne()`, `deleteMany()` e operadores de comparação e lógicos (usados em conjunto do `find()`).
+
+> Projeto individual: **[DataFlights](https://github.com/willian-prado/mongodb-dataflights)** - Tecnologias:
+<a href="https://www.mongodb.com/"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png" title="MongoDB" alt="mongodb" height="25"/> </a>
+
+#### Bloco 23 - MongoDB: Updates Simples e Complexos
+
+Utilização dos métodos `updateOne()` e `updateMany()` junto de operadores (por exemplo, `$set`, `$mul` e `$inc`) para updates simples em documentos MongoDB.
+Bem como updates complexos, alterando informações presentes em arrays.
+
+> Projeto individual: **[Commerce](https://github.com/willian-prado/mongodb-commerce)** - Tecnologias:
+<a href="https://www.mongodb.com/"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png" title="MongoDB" alt="mongodb" height="25"/> </a>
+
+#### Bloco 24 - MongoDB: Aggregation Framework
+
+Introdução ao Aggregation Framework, um conjunto de ferramentas modelado sob o conceito de processamento de dados por meio de pipelines. Ele permite operações de agregação que podem agrupar dados de múltiplos documentos ou coleções, executar operações nesses dados e, finalmente, retornar um único resultado. 
+
+> Projeto individual: **[Aggregations](https://github.com/willian-prado/mongodb-aggregations)** - Tecnologias:
+<a href="https://www.mongodb.com/"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png" title="MongoDB" alt="mongodb" height="25"/> </a>
+
+#### Bloco 25 - Introdução ao desenvolvimento Web com Node.js
+
+Introdução ao`NodeJS` e NPM, leitura e escrita de arquivos com o módulo `fs` de forma síncrona e assíncrona e construção de testes para NodeJS usando Mocha , Chai e Sinon. Além disso, demos os primeiros passos com um dos frameworks mais importantes para construção de APIs em NodeJS, o `Express`.
+
+> Projeto individual: **[Talker Manager](https://github.com/willian-prado/talker-manager)** - Tecnologias:
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="javascript" width="25" height="25"/></a>
+<a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="nodejs" width="25" height="25"/></a>
+<a href="https://expressjs.com"><img src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png" title= "Express" alt="express" width="25" height="25"/></a>
+
 <hr>
 
 ## Certificados
