@@ -260,6 +260,44 @@ Introdução ao`NodeJS` e NPM, leitura e escrita de arquivos com o módulo `fs` 
 <a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="nodejs" width="25" height="25"/></a>
 <a href="https://expressjs.com"><img src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png" title= "Express" alt="express" width="25" height="25"/></a>
 
+#### Bloco 26 - Node.js: Camada de Serviço e Arquitetura Rest e Restful
+
+Organização de uma aplicação Node e Express em camadas de responsabilidades, utilizando o padrão arquitetural MSC (Model-Service-Controller) e dentro do padrão REST. Aprendemos a realizar conexão com banco de dados MongoDB e MySQL, validar requisições, estruturar regras de negócio, tratar possíveis erros e criar testes unitários para as camadas.
+
+> Projeto individual: **[Store Manager](https://github.com/willian-prado/store-manager)** - Tecnologias:
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="javascript" width="25" height="25"/></a>
+<a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="nodejs" width="25" height="25"/></a>
+<a href="https://expressjs.com"><img src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png" title= "Express" alt="express" width="25" height="25"/></a>
+
+#### Bloco 27 - Autenticação e Upload de Arquivos
+
+Criação de um middleware de autenticação usando a biblioteca `JWT`, upload de arquivos com `multer` e criação de testes de integração com `Mocha`, `Chai` e `Sinon`.
+
+> Projeto individual: **[Cookmaster](https://github.com/willian-prado/cookmaster)** - Tecnologias:
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="javascript" width="25" height="25"/></a>
+<a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="nodejs" width="25" height="25"/></a>
+<a href="https://expressjs.com"><img src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png" title= "Express" alt="express" width="25" height="25"/></a>
+<a href="https://jwt.io/introduction"><img src="https://miro.medium.com/max/788/1*XkmnsJ6Joa6EDFVGUw0tfA.png" title= "JWT" alt="jwt" height="25"/></a>
+
+#### Bloco 28 - Deployment
+
+Aprendemos a realizar o deploy de uma aplicação Node e React pelo `Heroku` e gerenciar processos usando `PM2`.
+
+> Projeto individual: **[Stranger Things](https://github.com/willian-prado/stranger-things)** - Tecnologias:
+<a href="https://heroku.com"><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" title="Heroku" alt="heroku" height="25"/></a>
+
+#### Bloco 29 - Arquitetura: SOLID e ORM
+
+
+
+#### Bloco 30 - Sockets
+
+
+
+#### Bloco 31 - Projeto - App de Delivery
+
+
+
 <hr>
 
 ## Certificados
