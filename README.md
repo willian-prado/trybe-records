@@ -6,7 +6,8 @@ Aqui deixarei registrado todos os projetos desenvolvidos ao longo do curso, com 
 
 ## Introdução
 
-O curso da Trybe foi criado para pessoas que desejam seguir uma carreira em tecnologia. O programa conta com mais de 1.500 horas de aulas presenciais e on-line e aborda introdução ao desenvolvimento de software, front-end, back-end, ciência da computação, engenharia de software, metodologias ágeis e habilidades comportamentais. O currículo da Trybe foi desenhado em parceria com as maiores empresas de tecnologia do Brasil e do mundo e ao longo da formação, estudamos JavaScript, HTML, CSS, React, Node, Express.js, SQL, Git, entre outras linguagens e frameworks.
+O curso da Trybe foi criado para quem deseja seguir uma carreira em tecnologia e conta com mais de 1.500 horas de aulas presenciais e on-line. Ele aborda introdução ao desenvolvimento de software, front-end, back-end, ciência da computação, engenharia de software, metodologias ágeis e habilidades comportamentais.
+O currículo da Trybe, desenhado em parceria com as maiores empresas de tecnologia do Brasil e do mundo, permite que ao longo da formação, estudemos JavaScript, HTML, CSS, React, Node, Express.js, SQL, Git, entre outras linguagens e frameworks.
 
 <hr>
 
@@ -33,7 +34,7 @@ Introdução a Git e GitHub, o sistema de controle de versionamento de códigos 
 
 #### Bloco 3 - Introdução à HTML e CSS
 
-Principais tags HTML, como usar CSS para estilização e a importância de HTML semântico para acessibilidade de uma página.
+Estudamos as principais tags HTML, como usar CSS para estilização e a importância de HTML semântico para acessibilidade de uma página.
 
 > Projeto individual: **[Lessons Learned](https://github.com/willian-prado/lessons-learned)** - Tecnologias: 
 <a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="html5" width="30" height="30"/></a> 
@@ -71,7 +72,7 @@ Construção de formulários HTML, uso de bibliotecas JavaScript e CSS, introdu�
 
 #### Bloco 7 - Introdução à JavaScript ES6 e Testes Unitários
 
-Uso de features introduzidas na versão ES6 do JavaScript, como `let`, `const`, `arrow functions`, `template literals`, `operador ternário`. Além disso, aprendemos métodos de manipulação de objetos e construção dos primeiros testes automatizados usando o módulo Assert.
+Vimos sobre o uso de features introduzidas na versão ES6 do JavaScript, como `let`, `const`, `arrow functions`, `template literals`, `operador ternário`. Além disso, aprendemos métodos de manipulação de objetos e construção dos primeiros testes automatizados usando o módulo Assert.
 
 > Projeto individual: **[Js Unit Tests](https://github.com/willian-prado/js-unit-tests)** - Tecnologias:
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="javascript" width="25" height="25"/></a>
@@ -86,7 +87,7 @@ Conceitos de first-class function e higher order function, métodos de manipula�
 
 #### Bloco 9 - JavaScript e Testes Assíncronos
 
-Construção de código assíncrono usando callbacks e promises. Criação de testes automatizados usando a biblioteca Jest, uso de Jest assíncrono e Mocks aplicados a testes em Javascript.
+Praticamos a construção de código assíncrono, usando callbacks e promises. Além disso, aprendemos sobre testes automatizados usando a biblioteca Jest, usando Jest assíncrono e Mocks aplicados a testes em Javascript.
 
 > Projeto individual: **[Shopping Cart](https://github.com/willian-prado/shopping-cart)** - Tecnologias:
 <a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="html5" width="30" height="30"/></a> 
@@ -145,7 +146,7 @@ Aprendemos sobre os métodos ágeis, metodologia que incentiva o desenvolvimento
 
 #### Bloco 14 - Testes automatizados com React Testing Library
 
-Construção de testes automatizados utilizando RTL (React Testing Library), a biblioteca de testes recomendada pela documentação oficial do React.
+Fomos introduzidos ao uso de testes automatizados com RTL (React Testing Library), a biblioteca de testes recomendada pela documentação oficial do React.
 
 > Projeto individual: **[React Testing Library](https://github.com/willian-prado/react-testing-library)** - Tecnologias:
 <a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="html5" width="30" height="30"/></a> 
@@ -179,10 +180,11 @@ Prática de metodologias ágeis, soft skills e React-Redux.
 <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" title="React" alt="react" width="30" height="30"/></a>
 <a href="https://reactrouter.com/docs/en/v6/getting-started/overview"><img src="https://reacttraining.com/images/blog/reach-react-router-future.png" title="React Router" alt="react router" width="30" height="30"/></a>
 <a href="https://redux.js.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" title="Redux" alt="redux" width="30" height="30"/></a>
+<a href="https://trello.com/"><img src="https://trackingtime.co/wp-content/themes/trackingtime-v4/img/temp/logos/trello.png" title="Trello" alt="trello" width="25" height="25"/></a>
 
 #### Bloco 17 - Context API e React Hooks
 
-Introdução à funcionalidades mais avançadas em React, como: Context API, para gerenciamento do estado global da aplicação, e React Hooks, que permitem a utilização de componentes funcionais pelo acesso a métodos anteriormente restritos às classes, como o state.
+Introdução à funcionalidades mais avançadas em React, como: Context API, para gerenciamento do estado global da aplicação, e React Hooks, que permitem a utilização de componentes funcionais com estado e outras funcionalidades.
 
 > Projeto individual: **[Star Wars Planets Search](https://github.com/willian-prado/star-wars-planets-search)** - Tecnologias:
 <a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="html5" width="30" height="30"/></a>
@@ -202,6 +204,7 @@ Prática de metodologias ágeis, soft skills, React Hooks, Context API e testes 
 <a href="https://reactrouter.com/docs/en/v6/getting-started/overview"><img src="https://reacttraining.com/images/blog/reach-react-router-future.png" title="React Router" alt="react router" width="30" height="30"/></a>
 <a href="https://reactjs.org/"><img src="https://testing-library.com/img/octopus-128x128.png" title="React Testing Library" alt="react testing library" width="30" height="30"/></a>
 <a href="https://jestjs.io"><img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" title="Jest" alt="jest" width="25" height="25"/></a> 
+<a href="https://trello.com/"><img src="https://trackingtime.co/wp-content/themes/trackingtime-v4/img/temp/logos/trello.png" title="Trello" alt="trello" width="25" height="25"/></a>
 
 ### 3 - Desenvolvimento Back-end
 
@@ -214,24 +217,24 @@ Definições sobre bancos de dados relacionais, utilizando MySQL e MySQL Workben
 
 #### Bloco 20 - Funções SQL, JOINs e Normalização
 
-Utilização de funções para manipulação de dados SQL, como funções para manipulação de strings, estruturas condicionais e funções matemáticas.
-Além disso, aprendemos a unir informações presentes em mais de uma tabela por meios dos JOINs e a criar nossas próprias funções.
+Aprendemos sobre a utilização de funções para manipulação de dados SQL, como funções para manipulação de strings, estruturas condicionais e funções matemáticas.
+Além disso, vimos como unir informações presentes em mais de uma tabela por meios dos JOINs e a criar nossas próprias funções.
 
 > Projeto individual: **[Vocabulary Booster](https://github.com/willian-prado/mysql-vocabulary-booster)** - Tecnologias: 
 <a href="https://www.mysql.com/"><img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" title="MySQL" alt="mysql" height="25"/></a>
 
 #### Bloco 21 - Normalização e Modelagem de Banco de Dados
 
-Construção de um banco de dados a partir de ideias ou problemas a serem resolvidos. Passamos pela identificação de entidades, relacionamentos, construção de diagramas ER (entidade-relacionamento) e tabelas normalizadas.
+Praticamos a construção de um banco de dados a partir de ideias ou problemas a serem resolvidos. Passamos pela identificação de entidades, relacionamentos, construção de diagramas ER (entidade-relacionamento) e uso de tabelas normalizadas.
 
 > Projeto individual: **[One For All](https://github.com/willian-prado/mysql-one-for-all)** - Tecnologias:
 <a href="https://www.mysql.com/"><img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" title="MySQL" alt="mysql" height="25"/></a>
 
 #### Bloco 22 - Introdução ao MongoDB
 
-Conceitos sobre bancos de dados NoSQL, incluindo diferentes tipos de classes existentes. 
+Conceitos sobre bancos de dados NoSQL, incluindo os diferentes tipos de classes de bancos existentes. 
 Introdução ao MongoDB, um banco NoSQL da classe `Documentos`, incluindo instalação, conexão e execução de comandos básicos de leitura/escrita.
-Alguns dos comandos vistos foram `find()`, `insertOne()`, `insertMany()`, `deleteOne()`, `deleteMany()` e operadores de comparação e lógicos (usados em conjunto do `find()`).
+Alguns dos métodos vistos foram `find()`, `insertOne()`, `insertMany()`, `deleteOne()`, `deleteMany()` e operadores de comparação e lógicos (usados em conjunto do `find()`).
 
 > Projeto individual: **[DataFlights](https://github.com/willian-prado/mongodb-dataflights)** - Tecnologias:
 <a href="https://www.mongodb.com/"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png" title="MongoDB" alt="mongodb" height="25"/> </a>
@@ -246,14 +249,14 @@ Bem como updates complexos, alterando informações presentes em arrays.
 
 #### Bloco 24 - MongoDB: Aggregation Framework
 
-Introdução ao Aggregation Framework, um conjunto de ferramentas modelado sob o conceito de processamento de dados por meio de pipelines. Ele permite operações de agregação que podem agrupar dados de múltiplos documentos ou coleções, executar operações nesses dados e, finalmente, retornar um único resultado. 
+Introdução ao Aggregation Framework, conjunto de ferramentas modelado sob o conceito de processamento de dados por meio de pipelines. Ele permite operações de agregação que podem agrupar dados de múltiplos documentos ou coleções, executar operações nesses dados e, finalmente, retornar um único resultado. 
 
 > Projeto individual: **[Aggregations](https://github.com/willian-prado/mongodb-aggregations)** - Tecnologias:
 <a href="https://www.mongodb.com/"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png" title="MongoDB" alt="mongodb" height="25"/> </a>
 
 #### Bloco 25 - Introdução ao desenvolvimento Web com Node.js
 
-Introdução ao`NodeJS` e NPM, leitura e escrita de arquivos com o módulo `fs` de forma síncrona e assíncrona e construção de testes para NodeJS usando Mocha , Chai e Sinon. Além disso, demos os primeiros passos com um dos frameworks mais importantes para construção de APIs em NodeJS, o `Express`.
+Introdução ao`NodeJS` e NPM, leitura e escrita de arquivos com o módulo `fs` de forma síncrona e assíncrona e construção de testes para NodeJS usando Mocha , Chai e Sinon. Além disso, dar os primeiros passos com um dos frameworks mais importantes para construção de APIs em NodeJS, o `Express`.
 
 > Projeto individual: **[Talker Manager](https://github.com/willian-prado/talker-manager)** - Tecnologias:
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="javascript" width="25" height="25"/></a>
@@ -262,41 +265,97 @@ Introdução ao`NodeJS` e NPM, leitura e escrita de arquivos com o módulo `fs` 
 
 #### Bloco 26 - Node.js: Camada de Serviço e Arquitetura Rest e Restful
 
-Organização de uma aplicação Node e Express em camadas de responsabilidades, utilizando o padrão arquitetural MSC (Model-Service-Controller) e dentro do padrão REST. Aprendemos a realizar conexão com banco de dados MongoDB e MySQL, validar requisições, estruturar regras de negócio, tratar possíveis erros e criar testes unitários para as camadas.
+Organização de uma aplicação Node e Express em camadas de responsabilidades, usando a arquitetura MSC (Model-Service-Controller) e dentro do padrão REST. Fizemos a construção de APIs RESTful, incluindo conexão com banco de dados MongoDB ou MySQL, validação de requisições, estruturação de regras de negócio, tratamento de possíveis erros e mais.
 
 > Projeto individual: **[Store Manager](https://github.com/willian-prado/store-manager)** - Tecnologias:
+<a href="https://www.mongodb.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png" title="MongoDB" alt="mongodb" height="25"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="javascript" width="25" height="25"/></a>
 <a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="nodejs" width="25" height="25"/></a>
 <a href="https://expressjs.com"><img src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png" title= "Express" alt="express" width="25" height="25"/></a>
 
 #### Bloco 27 - Autenticação e Upload de Arquivos
 
-Criação de um middleware de autenticação usando a biblioteca `JWT`, upload de arquivos com `multer` e criação de testes de integração com `Mocha`, `Chai` e `Sinon`.
+Construção de uma API Restful contendo um middleware de autenticação `JWT`, upload de arquivos com `multer` e criação de testes de integração com `Mocha`, `Chai` e `Sinon`.
 
 > Projeto individual: **[Cookmaster](https://github.com/willian-prado/cookmaster)** - Tecnologias:
+<a href="https://www.mongodb.com/"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png" title="MongoDB" alt="mongodb" height="25"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="javascript" width="25" height="25"/></a>
 <a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="nodejs" width="25" height="25"/></a>
 <a href="https://expressjs.com"><img src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png" title= "Express" alt="express" width="25" height="25"/></a>
-<a href="https://jwt.io/introduction"><img src="https://miro.medium.com/max/788/1*XkmnsJ6Joa6EDFVGUw0tfA.png" title= "JWT" alt="jwt" height="25"/></a>
+<a href="https://jwt.io/introduction"><img src="https://vegibit.com/wp-content/uploads/2018/07/JSON-Web-Token-Authentication-With-Node.png" title= "JWT" alt="jwt" height="25"/></a>
 
 #### Bloco 28 - Deployment
 
-Aprendemos a realizar o deploy de uma aplicação Node e React pelo `Heroku` e gerenciar processos usando `PM2`.
+Configuração do deploy de uma aplicação Node e React pelo `Heroku` e gerenciamento processos usando `PM2`.
 
 > Projeto individual: **[Stranger Things](https://github.com/willian-prado/stranger-things)** - Tecnologias:
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="javascript" width="25" height="25"/></a>
+<a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="nodejs" width="25" height="25"/></a>
+<a href="https://expressjs.com"><img src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png" title= "Express" alt="express" width="25" height="25"/></a>
+<a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" title="React" alt="react" width="30" height="30"/></a>
 <a href="https://heroku.com"><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" title="Heroku" alt="heroku" height="25"/></a>
 
 #### Bloco 29 - Arquitetura: SOLID e ORM
 
+Noções sobre os cinco princípios SOLID, série de normas e padrões para construir um código mais organizado, otimizando manutenção, legibilidade e testabilidade. 
+Ainda, introdução ao ORM (object relational mapping) Sequelize. Os ORMs permitem criar e alterar tabelas, fazer consultas, inserir e extrair dados do seu banco de dados através de código JavaScript. O Sequelize é um ORM do tipo Active Record que permite a utilização de diferentes tipos de bancos de dados, incluindo MySQL, PostgreSQL, MariaDB e SQLServer.
 
+> Projeto individual: **[Blogs API](https://github.com/willian-prado/blogs-api)** - Tecnologias:
+<a href="https://www.mysql.com/"><img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" title="MySQL" alt="mysql" height="25"/></a>
+<a href="https://sequelize.org/v6/"><img src="https://seeklogo.com/images/S/sequelize-logo-9A5075DB9F-seeklogo.com.png" title= "Sequelize" alt="sequelize" width="25" height="25"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="javascript" width="25" height="25"/></a>
+<a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="nodejs" width="25" height="25"/></a>
+<a href="https://expressjs.com"><img src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png" title= "Express" alt="express" width="25" height="25"/></a>
+<a href="https://jwt.io/introduction"><img src="https://vegibit.com/wp-content/uploads/2018/07/JSON-Web-Token-Authentication-With-Node.png" title= "JWT" alt="jwt" height="25"/></a>
 
 #### Bloco 30 - Sockets
 
+Introdução ao padrão arquitetural MVC (Model-View-Controller) utilizando EJS (Embedded JavaScript) como *template engine* e ao pacote Socket.io - uma ferramenta usada para criar aplicações em tempo-real, como aplicativos de mensagens instantâneas, streaming e colaboração em documentos.
 
+> Projeto individual: **[Webchat](https://github.com/willian-prado/webchat)** - Tecnologias:
+<a href="https://www.mongodb.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png" title="MongoDB" alt="mongodb" height="25"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="javascript" width="25" height="25"/></a>
+<a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="nodejs" width="25" height="25"/></a>
+<a href="https://expressjs.com"><img src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png" title= "Express" alt="express" width="25" height="25"/></a>
+<a href="https://socket.io/"><img src="https://img2.gratispng.com/20180825/veg/kisspng-socket-io-node-js-javascript-network-socket-websoc-socket-io-logo-in-svg-jpg-png-5b81a6e505cd53.3223084015352235250238.jpg" title= "Socket.io" alt="socket.io" height="25"/></a>
 
 #### Bloco 31 - Projeto - App de Delivery
 
+Prática de metodologias ágeis, soft skills, React, Redux, Node, Express, MySQL, Sequelize e comunicação entre back-end e front-end de uma aplicação.
 
+> Projeto em grupo: **[Delivery App](https://github.com/willian-prado/delivery-app)** - Tecnologias:
+<a href="https://www.mysql.com/"><img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" title="MySQL" alt="mysql" height="25"/></a>
+<a href="https://sequelize.org/v6/"><img src="https://seeklogo.com/images/S/sequelize-logo-9A5075DB9F-seeklogo.com.png" title= "Sequelize" alt="sequelize" width="25" height="25"/></a>
+<a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="html5" width="30" height="30"/></a> 
+<a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" title="CCS3" alt="css3" width="30" height="30"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="javascript" width="25" height="25"/></a>
+<a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" title="React" alt="react" width="30" height="30"/></a>
+<a href="https://redux.js.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" title="Redux" alt="redux" width="30" height="30"/></a>
+<a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="nodejs" width="25" height="25"/></a>
+<a href="https://expressjs.com"><img src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png" title= "Express" alt="express" width="25" height="25"/></a>
+<a href="https://jwt.io/introduction"><img src="https://vegibit.com/wp-content/uploads/2018/07/JSON-Web-Token-Authentication-With-Node.png" title= "JWT" alt="jwt" height="25"/></a>
+<a href="https://trello.com/"><img src="https://trackingtime.co/wp-content/themes/trackingtime-v4/img/temp/logos/trello.png" title="Trello" alt="trello" width="25" height="25"/></a>
+
+### 4 - Ciência da Computação
+
+#### Bloco 32 - Introdução à Python
+
+Introdução à linguagem de programação Python, desde a sua instalação, configuração do ambiente de desenvolvimento, sintaxe básica e diferentes tipos de variáveis, métodos e principais funções.
+
+> Projeto individual: **[Job Insights](https://github.com/willian-prado/job-insights)** - Tecnologias:
+<a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" alt="python" height="35"/></a> 
+
+#### Bloco 33 - Programação Orientada a Objetos e Padrões de Projeto
+
+Revisão sobre princípios SOLID e primeiro contato com a abordagem POO (Programação Orientada a Objetos) e seus quatro pilares: abstração, encapsulamento, herança e polimorfismo. Introdução a conceitos, como `classe`, `instância`, `métodos abstratos`, `métodos de classe`, `métodos estáticos`, `interface` e mais.
+
+> Projeto em dupla: **[Inventory Reports](https://github.com/willian-prado/inventory-reports)** - Tecnologias:
+<a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" alt="python" height="35"/></a> 
+
+#### Bloco 34 - Redes e Raspagem de Dados
+#### Bloco 35 - Algoritmos
+#### Bloco 36 - Estrutura de Dados I: Arrays, Hashmaps e Sets
+#### Bloco 37 - Estrutura de Dados II: Listas, Filas e Pilhas
 
 <hr>
 
@@ -320,3 +379,7 @@ Aprendemos a realizar o deploy de uma aplicação Node e React pelo `Heroku` e g
 
 ## Contato
 
+Nome: Willian Santos Prado \
+Telefone: (31) 97502-0529 \
+E-mail: this.willprado@gmail.com \
+Linkedin: https://www.linkedin.com/in/willian-prado-dev/
