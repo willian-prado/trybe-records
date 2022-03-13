@@ -1,8 +1,330 @@
 # Boas-vindas ao repositório de projetos do curso de desenvolvimento web da Trybe!
 
-Aqui deixarei registrado todos os projetos desenvolvidos ao longo do curso, com uma breve descrição do que foi aprendido em cada um dos blocos.
+Aqui deixarei registrado todos os projetos que desenvolvi ao longo do curso, com uma breve descrição do que foi aprendido em cada um dos blocos em que foram realizados.
 
 <hr>
+
+## Acesso Rápido
+
+<table>
+  <tr>
+    <th>Bloco</th>
+    <th>Projeto</th>
+    <th>Principais Tecnologias</th>
+  </tr>
+  <tr>
+    <td>Bloco 1 - Unix & Bash</td>
+    <td> - </td>
+    <td> - </td>
+  </tr>
+  <tr>
+    <td>Bloco 2 - Git, GitHub e Internet</td>
+    <td> - </td>
+    <td> - </td>
+  </tr>
+  <tr>
+    <td>Bloco 3 - Introdução à HTML e CSS</td>
+    <td><a href="https://github.com/willian-prado/lessons-learned">Lessons Learned</a></td>
+    <td>
+      <a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"                   title="HTML5" alt="html5" width="30" height="30"/></a> 
+      <a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"               title="CCS3" alt="css3" width="30" height="30"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td>Bloco 4 - Introdução à JavaScript e Lógica de Programação</td>
+    <td><a href="https://github.com/willian-prado/playground-functions">Playground Functions</a></td>
+    <td>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="javascript" height="25"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td>Bloco 5 - JavaScript: DOM, Eventos e Web Storage</td>
+    <td><a href="https://github.com/willian-prado/pixels-art">Pixels Art</a></td>
+    <td>
+      <a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="html5" width="30" height="30"/></a> 
+<a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" title="CCS3" alt="css3" width="30" height="30"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="javascript" height="25"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td>Bloco 5 - JavaScript: DOM, Eventos e Web Storage</td>
+    <td><a href="https://github.com/willian-prado/todo-list">Todo List</a></td>
+    <td>
+      <a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="html5" width="30" height="30"/></a> 
+<a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" title="CCS3" alt="css3" width="30" height="30"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="javascript" width="25" height="25"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td>Bloco 6 - HTML e CSS: Forms, Flexbox e Responsivo</td>
+    <td><a href="https://github.com/willian-prado/trybewarts">Trybewarts</a></td>
+    <td>
+      <a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="html5" width="30" height="30"/></a> 
+<a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" title="CCS3" alt="css3" width="30" height="30"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="javascript" width="25" height="25"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td>Bloco 7 - Introdução à JavaScript ES6 e Testes Unitários</td>
+    <td><a href="https://github.com/willian-prado/js-unit-tests">Js Unit Tests</a></td>
+    <td>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="javascript" width="25" height="25"/></a>
+<a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="nodejs" width="25" height="25"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td>Bloco 8 - Higher Order Functions do JavaScript ES6</td>
+    <td><a href="https://github.com/willian-prado/zoo-functions">Zoo Functions</a></td>
+    <td>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="javascript" width="25" height="25"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td>Bloco 9 - JavaScript e Testes Assíncronos</td>
+    <td><a href="https://github.com/willian-prado/shopping-cart">Shopping Cart</a></td>
+    <td>
+      <a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="html5" width="30" height="30"/></a> 
+<a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" title="CCS3" alt="css3" width="30" height="30"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="javascript" width="25" height="25"/></a>   
+    </td>
+  </tr>
+  <tr>
+    <td>Bloco 9 - JavaScript e Testes Assíncronos</td>
+    <td><a href="https://github.com/willian-prado/jest">Jest</a></td>
+    <td>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="javascript" width="25" height="25"/></a>
+<a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="nodejs" width="25" height="25"/></a>
+<a href="https://jestjs.io"><img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" title="Jest" alt="jest" width="25" height="25"/></a> 
+    </td>
+  </tr>
+  <tr>
+    <td>Bloco 10 - Introdução à React</td>
+    <td><a href="https://github.com/willian-prado/movie-cards-library">Movie Cards Library</a></td>
+    <td>
+<a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" title="React" alt="react" height="25"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td>Bloco 11 - Componentes com Estado, Eventos e Formulários com React</td>
+    <td><a href="https://github.com/willian-prado/movie-cards-library-stateful">Movie Cards Library Stateful</a></td>
+    <td>
+<a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" title="React" alt="react" height="25"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td>Bloco 12 - Ciclo de Vida de Componentes e React Router</td>
+    <td><a href="https://github.com/willian-prado/movie-cards-library-crud">Movie Cards Library CRUD</a></td>
+    <td>
+<a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" title="React" alt="react" height="25"/></a>
+<a href="https://reactrouter.com/docs/en/v6/getting-started/overview"><img src="https://reacttraining.com/images/blog/reach-react-router-future.png" title="React Router" alt="react router" height="25"/></a>
+    </td>
+  </tr>
+   <tr>
+    <td>Bloco 13 - Metodologias Ágeis</td>
+    <td><a href="https://github.com/willian-prado/frontend-online-store">Frontend Online Store</a></td>
+    <td>
+      <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" title="React" alt="react" height="25"/></a>
+<a href="https://reactrouter.com/docs/en/v6/getting-started/overview"><img src="https://reacttraining.com/images/blog/reach-react-router-future.png" title="React Router" alt="react router" height="25"/></a>
+<a href="https://trello.com/"><img src="https://trackingtime.co/wp-content/themes/trackingtime-v4/img/temp/logos/trello.png" title="Trello" alt="trello" width="25" height="25"/></a>
+    </td>
+  </tr>
+   <tr>
+    <td>Bloco 14 - Testes automatizados com React Testing Library</td>
+    <td><a href="https://github.com/willian-prado/react-testing-library">React Testing Library</a></td>
+    <td>
+      <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" title="React" alt="react" height="25"/></a>
+<a href="https://reactrouter.com/docs/en/v6/getting-started/overview"><img src="https://reacttraining.com/images/blog/reach-react-router-future.png" title="React Router" alt="react router" height="25"/></a>
+<a href="https://reactjs.org/"><img src="https://testing-library.com/img/octopus-128x128.png" title="React Testing Library" alt="react testing library" width="30" height="25"/></a>
+<a href="https://jestjs.io"><img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" title="Jest" alt="jest" width="25" height="25"/></a>  
+    </td>
+  </tr>
+   <tr>
+    <td>Bloco 15 - Gerenciamento de estado com Redux</td>
+    <td><a href="https://github.com/willian-prado/trybewallet">Trybewallet</a></td>
+    <td>
+      <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" title="React" alt="react" height="25"/></a>
+<a href="https://reactrouter.com/docs/en/v6/getting-started/overview"><img src="https://reacttraining.com/images/blog/reach-react-router-future.png" title="React Router" alt="react router" height="25"/></a>
+<a href="https://redux.js.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" title="Redux" alt="redux" height="25"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td>Bloco 16 - Projeto Jogo de Trivia</td>
+    <td><a href="https://github.com/willian-prado/trivia-react-redux">Trivia</a></td>
+    <td>
+      <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" title="React" alt="react" height="25"/></a>
+<a href="https://reactrouter.com/docs/en/v6/getting-started/overview"><img src="https://reacttraining.com/images/blog/reach-react-router-future.png" title="React Router" alt="react router" height="25"/></a>
+<a href="https://redux.js.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" title="Redux" alt="redux" height="25"/></a>
+<a href="https://trello.com/"><img src="https://trackingtime.co/wp-content/themes/trackingtime-v4/img/temp/logos/trello.png" title="Trello" alt="trello" width="25" height="25"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td>Bloco 17 - Context API e React Hooks</td>
+    <td><a href="https://github.com/willian-prado/star-wars-planets-search">Star Wars Planets Search</a></td>
+    <td>
+<a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" title="React" alt="react" height="25"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td>Bloco 18 - Projeto App de Receitas</td>
+    <td><a href="https://github.com/willian-prado/recipes-app">Recipes App</a></td>
+    <td>
+<a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" title="React" alt="react" height="25"/></a>
+<a href="https://reactrouter.com/docs/en/v6/getting-started/overview"><img src="https://reacttraining.com/images/blog/reach-react-router-future.png" title="React Router" alt="react router" height="25"/></a>
+<a href="https://reactjs.org/"><img src="https://testing-library.com/img/octopus-128x128.png" title="React Testing Library" alt="react testing library" width="30" height="25"/></a>
+<a href="https://jestjs.io"><img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" title="Jest" alt="jest" width="25" height="25"/></a> 
+<a href="https://trello.com/"><img src="https://trackingtime.co/wp-content/themes/trackingtime-v4/img/temp/logos/trello.png" title="Trello" alt="trello" width="25" height="25"/></a> 
+    </td>
+  </tr>
+  <tr>
+    <td>Bloco 19 - Introdução à SQL</td>
+    <td><a href="https://github.com/willian-prado/mysql-all-for-one">All For One</a></td>
+    <td>
+ <a href="https://www.mysql.com/"><img src="https://icon-library.com/images/mysql-icon/mysql-icon-3.jpg" title="MySQL" alt="mysql" height="25"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td>Bloco 20 - Funções SQL, JOINs e Normalização</td>
+    <td><a href="https://github.com/willian-prado/mysql-vocabulary-booster">Vocabulary Booster</a></td>
+    <td>
+ <a href="https://www.mysql.com/"><img src="https://icon-library.com/images/mysql-icon/mysql-icon-3.jpg" title="MySQL" alt="mysql" height="25"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td>Bloco 21 - Normalização e Modelagem de Banco de Dados</td>
+    <td><a href="https://github.com/willian-prado/mysql-one-for-all">One For All</a></td>
+    <td>
+ <a href="https://www.mysql.com/"><img src="https://icon-library.com/images/mysql-icon/mysql-icon-3.jpg" title="MySQL" alt="mysql" height="25"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td>Bloco 22 - Introdução ao MongoDB</td>
+    <td><a href="https://github.com/willian-prado/mongodb-dataflights">DataFlights</a></td>
+    <td>
+ <a href="https://www.mongodb.com/"><img src="https://www.svgrepo.com/show/331488/mongodb.svg" title="MongoDB" alt="mongodb" height="22"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td>Bloco 23 - MongoDB: Updates Simples e Complexos</td>
+    <td><a href="https://github.com/willian-prado/mongodb-commerce">Commerce</a></td>
+    <td>
+ <a href="https://www.mongodb.com/"><img src="https://www.svgrepo.com/show/331488/mongodb.svg" title="MongoDB" alt="mongodb" height="22"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td>Bloco 24 - MongoDB: Aggregation Framework</td>
+    <td><a href="https://github.com/willian-prado/mongodb-aggregations">Aggregations</a></td>
+    <td>
+ <a href="https://www.mongodb.com/"><img src="https://www.svgrepo.com/show/331488/mongodb.svg" title="MongoDB" alt="mongodb" height="22"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td>Bloco 25 - Introdução ao desenvolvimento Web com Node.js</td>
+    <td><a href="https://github.com/willian-prado/talker-manager">Talker Manager</a></td>
+    <td>
+<a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="nodejs" width="25" height="25"/></a>
+<a href="https://expressjs.com"><img src="https://images.tute.io/tute/topic/express-js.png" title= "Express" alt="express" width="25" height="25"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td>Bloco 26 - Node.js: Camada de Serviço e Arquitetura Rest e Restful</td>
+    <td><a href="https://github.com/willian-prado/store-manager">Store Manager</a></td>
+    <td>
+<a href="https://www.mongodb.com/"><img src="https://www.svgrepo.com/show/331488/mongodb.svg" title="MongoDB" alt="mongodb" height="22"/></a>      
+<a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="nodejs" width="25" height="25"/></a>
+<a href="https://expressjs.com"><img src="https://images.tute.io/tute/topic/express-js.png" title= "Express" alt="express" width="25" height="25"/></a>  
+    </td>
+  </tr>
+  <tr>
+    <td>Bloco 27 - Autenticação e Upload de Arquivos</td>
+    <td><a href="https://github.com/willian-prado/cookmaster">Cookmaster</a></td>
+    <td>
+<a href="https://www.mongodb.com/"><img src="https://www.svgrepo.com/show/331488/mongodb.svg" title="MongoDB" alt="mongodb" height="22"/></a>    
+<a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="nodejs" width="25" height="25"/></a>
+<a href="https://expressjs.com"><img src="https://images.tute.io/tute/topic/express-js.png" title= "Express" alt="express" width="25" height="25"/></a>
+<a href="https://jwt.io/introduction"><img src="https://vegibit.com/wp-content/uploads/2018/07/JSON-Web-Token-Authentication-With-Node.png" title= "JWT" alt="jwt" height="25"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td>Bloco 28 - Deployment</td>
+    <td><a href="https://github.com/willian-prado/stranger-things">Stranger Things</a></td>
+    <td>
+<a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="nodejs" width="25" height="25"/></a>
+<a href="https://expressjs.com"><img src="https://images.tute.io/tute/topic/express-js.png" title= "Express" alt="express" width="25" height="25"/></a>
+<a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" title="React" alt="react" width="30" height="30"/></a>
+<a href="https://heroku.com"><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" title="Heroku" alt="heroku" height="25"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td>Bloco 29 - Arquitetura: SOLID e ORM</td>
+    <td><a href="https://github.com/willian-prado/blogs-api">Blogs API</a></td>
+    <td>
+<a href="https://www.mysql.com/"><img src="https://icon-library.com/images/mysql-icon/mysql-icon-3.jpg" title="MySQL" alt="mysql" height="25"/></a>
+<a href="https://sequelize.org/v6/"><img src="https://seeklogo.com/images/S/sequelize-logo-9A5075DB9F-seeklogo.com.png" title= "Sequelize" alt="sequelize" width="25" height="25"/></a>
+<a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="nodejs" width="25" height="25"/></a>
+<a href="https://expressjs.com"><img src="https://images.tute.io/tute/topic/express-js.png" title= "Express" alt="express" width="25" height="25"/></a>
+<a href="https://jwt.io/introduction"><img src="https://vegibit.com/wp-content/uploads/2018/07/JSON-Web-Token-Authentication-With-Node.png" title= "JWT" alt="jwt" height="25"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td>Bloco 30 - Sockets</td>
+    <td><a href="https://github.com/willian-prado/webchat">Webchat</a></td>
+    <td>
+<a href="https://www.mongodb.com/"><img src="https://www.svgrepo.com/show/331488/mongodb.svg" title="MongoDB" alt="mongodb" height="22"/></a>    
+<a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="nodejs" width="25" height="25"/></a>
+<a href="https://expressjs.com"><img src="https://images.tute.io/tute/topic/express-js.png" title= "Express" alt="express" width="25" height="25"/></a>
+<a href="https://socket.io/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Socket-io.svg/1200px-Socket-io.svg.png" title= "Socket.io" alt="socket.io" height="27"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td>Bloco 31 - Projeto - App de Delivery</td>
+    <td><a href="https://github.com/willian-prado/delivery-app">Delivery App</a></td>
+    <td>
+<a href="https://www.mysql.com/"><img src="https://icon-library.com/images/mysql-icon/mysql-icon-3.jpg" title="MySQL" alt="mysql" height="25"/></a>
+<a href="https://sequelize.org/v6/"><img src="https://seeklogo.com/images/S/sequelize-logo-9A5075DB9F-seeklogo.com.png" title= "Sequelize" alt="sequelize" width="25" height="25"/></a>
+<a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" title="React" alt="react" height="25"/></a>
+<a href="https://redux.js.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" title="Redux" alt="redux" height="25"/></a>
+<a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="nodejs" width="25" height="25"/></a>
+<a href="https://expressjs.com"><img src="https://images.tute.io/tute/topic/express-js.png" title= "Express" alt="express" width="25" height="25"/></a>
+<a href="https://trello.com/"><img src="https://trackingtime.co/wp-content/themes/trackingtime-v4/img/temp/logos/trello.png" title="Trello" alt="trello" width="25" height="25"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td>Bloco 32 - Introdução à Python</td>
+    <td><a href="https://github.com/willian-prado/job-insights">Job Insights</a></td>
+    <td>
+<a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" alt="python" height="30"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td>Bloco 33 - Programação Orientada a Objetos e Padrões de Projeto</td>
+    <td><a href="https://github.com/willian-prado/inventory-reports">Inventory Reports</a></td>
+    <td>
+<a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" alt="python" height="30"/></a> 
+    </td>
+  </tr>
+  <tr>
+    <td>Bloco 34 - Redes e Raspagem de Dados</td>
+    <td><a>Tech News</a></td>
+    <td>
+<a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" alt="python" height="30"/></a> 
+    </td>
+  </tr>
+  <tr>
+    <td>Bloco 35 - Algoritmos</td>
+    <td><a>-</a></td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>Bloco 36 - Estrutura de Dados I: Arrays, Hashmaps e Sets</td>
+    <td><a>-</a></td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>Bloco 37 - Estrutura de Dados II: Listas, Filas e Pilhas</td>
+    <td><a>-</a></td>
+    <td>-</td>
+  </tr>
+</table>
 
 ## Introdução
 
@@ -213,7 +535,7 @@ Prática de metodologias ágeis, soft skills, React Hooks, Context API e testes 
 Definições sobre bancos de dados relacionais, utilizando MySQL e MySQL Workbench de forma prática. Uso de comandos básicos, como `SELECT`, `WHERE`, `ORDER BY`, `INSERT`, `UPDATE`, `DELETE`.
 
 > Projeto individual: **[All For One](https://github.com/willian-prado/mysql-all-for-one)** - Tecnologias:
-<a href="https://www.mysql.com/"><img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" title="MySQL" alt="mysql" height="25"/></a>
+<a href="https://www.mysql.com/"><img src="https://icon-library.com/images/mysql-icon/mysql-icon-3.jpg" title="MySQL" alt="mysql" height="30"/></a>
 
 #### Bloco 20 - Funções SQL, JOINs e Normalização
 
@@ -221,14 +543,14 @@ Aprendemos sobre a utilização de funções para manipulação de dados SQL, co
 Além disso, vimos como unir informações presentes em mais de uma tabela por meios dos JOINs e a criar nossas próprias funções.
 
 > Projeto individual: **[Vocabulary Booster](https://github.com/willian-prado/mysql-vocabulary-booster)** - Tecnologias: 
-<a href="https://www.mysql.com/"><img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" title="MySQL" alt="mysql" height="25"/></a>
+<a href="https://www.mysql.com/"><img src="https://icon-library.com/images/mysql-icon/mysql-icon-3.jpg" title="MySQL" alt="mysql" height="30"/></a>
 
 #### Bloco 21 - Normalização e Modelagem de Banco de Dados
 
 Praticamos a construção de um banco de dados a partir de ideias ou problemas a serem resolvidos. Passamos pela identificação de entidades, relacionamentos, construção de diagramas ER (entidade-relacionamento) e uso de tabelas normalizadas.
 
 > Projeto individual: **[One For All](https://github.com/willian-prado/mysql-one-for-all)** - Tecnologias:
-<a href="https://www.mysql.com/"><img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" title="MySQL" alt="mysql" height="25"/></a>
+<a href="https://www.mysql.com/"><img src="https://icon-library.com/images/mysql-icon/mysql-icon-3.jpg" title="MySQL" alt="mysql" height="30"/></a>
 
 #### Bloco 22 - Introdução ao MongoDB
 
@@ -237,7 +559,7 @@ Introdução ao MongoDB, um banco NoSQL da classe `Documentos`, incluindo instal
 Alguns dos métodos vistos foram `find()`, `insertOne()`, `insertMany()`, `deleteOne()`, `deleteMany()` e operadores de comparação e lógicos (usados em conjunto do `find()`).
 
 > Projeto individual: **[DataFlights](https://github.com/willian-prado/mongodb-dataflights)** - Tecnologias:
-<a href="https://www.mongodb.com/"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png" title="MongoDB" alt="mongodb" height="25"/> </a>
+<a href="https://www.mongodb.com/"><img src="https://www.svgrepo.com/show/331488/mongodb.svg" title="MongoDB" alt="mongodb" height="25"/></a>
 
 #### Bloco 23 - MongoDB: Updates Simples e Complexos
 
@@ -245,14 +567,14 @@ Utilização dos métodos `updateOne()` e `updateMany()` junto de operadores (po
 Bem como updates complexos, alterando informações presentes em arrays.
 
 > Projeto individual: **[Commerce](https://github.com/willian-prado/mongodb-commerce)** - Tecnologias:
-<a href="https://www.mongodb.com/"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png" title="MongoDB" alt="mongodb" height="25"/> </a>
+<a href="https://www.mongodb.com/"><img src="https://www.svgrepo.com/show/331488/mongodb.svg" title="MongoDB" alt="mongodb" height="25"/></a>
 
 #### Bloco 24 - MongoDB: Aggregation Framework
 
 Introdução ao Aggregation Framework, conjunto de ferramentas modelado sob o conceito de processamento de dados por meio de pipelines. Ele permite operações de agregação que podem agrupar dados de múltiplos documentos ou coleções, executar operações nesses dados e, finalmente, retornar um único resultado. 
 
 > Projeto individual: **[Aggregations](https://github.com/willian-prado/mongodb-aggregations)** - Tecnologias:
-<a href="https://www.mongodb.com/"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png" title="MongoDB" alt="mongodb" height="25"/> </a>
+<a href="https://www.mongodb.com/"><img src="https://www.svgrepo.com/show/331488/mongodb.svg" title="MongoDB" alt="mongodb" height="25"/></a>
 
 #### Bloco 25 - Introdução ao desenvolvimento Web com Node.js
 
@@ -261,27 +583,27 @@ Introdução ao`NodeJS` e NPM, leitura e escrita de arquivos com o módulo `fs` 
 > Projeto individual: **[Talker Manager](https://github.com/willian-prado/talker-manager)** - Tecnologias:
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="javascript" width="25" height="25"/></a>
 <a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="nodejs" width="25" height="25"/></a>
-<a href="https://expressjs.com"><img src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png" title= "Express" alt="express" width="25" height="25"/></a>
+<a href="https://expressjs.com"><img src="https://images.tute.io/tute/topic/express-js.png" title= "Express" alt="express" width="25" height="25"/></a>
 
 #### Bloco 26 - Node.js: Camada de Serviço e Arquitetura Rest e Restful
 
 Organização de uma aplicação Node e Express em camadas de responsabilidades, usando a arquitetura MSC (Model-Service-Controller) e dentro do padrão REST. Fizemos a construção de APIs RESTful, incluindo conexão com banco de dados MongoDB ou MySQL, validação de requisições, estruturação de regras de negócio, tratamento de possíveis erros e mais.
 
 > Projeto individual: **[Store Manager](https://github.com/willian-prado/store-manager)** - Tecnologias:
-<a href="https://www.mongodb.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png" title="MongoDB" alt="mongodb" height="25"/></a>
+<a href="https://www.mongodb.com/"><img src="https://www.svgrepo.com/show/331488/mongodb.svg" title="MongoDB" alt="mongodb" height="25"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="javascript" width="25" height="25"/></a>
 <a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="nodejs" width="25" height="25"/></a>
-<a href="https://expressjs.com"><img src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png" title= "Express" alt="express" width="25" height="25"/></a>
+<a href="https://expressjs.com"><img src="https://images.tute.io/tute/topic/express-js.png" title= "Express" alt="express" width="25" height="25"/></a>
 
 #### Bloco 27 - Autenticação e Upload de Arquivos
 
 Construção de uma API Restful contendo um middleware de autenticação `JWT`, upload de arquivos com `multer` e criação de testes de integração com `Mocha`, `Chai` e `Sinon`.
 
 > Projeto individual: **[Cookmaster](https://github.com/willian-prado/cookmaster)** - Tecnologias:
-<a href="https://www.mongodb.com/"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png" title="MongoDB" alt="mongodb" height="25"/></a>
+<a href="https://www.mongodb.com/"><img src="https://www.svgrepo.com/show/331488/mongodb.svg" title="MongoDB" alt="mongodb" height="25"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="javascript" width="25" height="25"/></a>
 <a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="nodejs" width="25" height="25"/></a>
-<a href="https://expressjs.com"><img src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png" title= "Express" alt="express" width="25" height="25"/></a>
+<a href="https://expressjs.com"><img src="https://images.tute.io/tute/topic/express-js.png" title= "Express" alt="express" width="25" height="25"/></a>
 <a href="https://jwt.io/introduction"><img src="https://vegibit.com/wp-content/uploads/2018/07/JSON-Web-Token-Authentication-With-Node.png" title= "JWT" alt="jwt" height="25"/></a>
 
 #### Bloco 28 - Deployment
@@ -291,7 +613,7 @@ Configuração do deploy de uma aplicação Node e React pelo `Heroku` e gerenci
 > Projeto individual: **[Stranger Things](https://github.com/willian-prado/stranger-things)** - Tecnologias:
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="javascript" width="25" height="25"/></a>
 <a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="nodejs" width="25" height="25"/></a>
-<a href="https://expressjs.com"><img src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png" title= "Express" alt="express" width="25" height="25"/></a>
+<a href="https://expressjs.com"><img src="https://images.tute.io/tute/topic/express-js.png" title= "Express" alt="express" width="25" height="25"/></a>
 <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" title="React" alt="react" width="30" height="30"/></a>
 <a href="https://heroku.com"><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" title="Heroku" alt="heroku" height="25"/></a>
 
@@ -301,11 +623,11 @@ Noções sobre os cinco princípios SOLID, série de normas e padrões para cons
 Ainda, introdução ao ORM (object relational mapping) Sequelize. Os ORMs permitem criar e alterar tabelas, fazer consultas, inserir e extrair dados do seu banco de dados através de código JavaScript. O Sequelize é um ORM do tipo Active Record que permite a utilização de diferentes tipos de bancos de dados, incluindo MySQL, PostgreSQL, MariaDB e SQLServer.
 
 > Projeto individual: **[Blogs API](https://github.com/willian-prado/blogs-api)** - Tecnologias:
-<a href="https://www.mysql.com/"><img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" title="MySQL" alt="mysql" height="25"/></a>
+<a href="https://www.mysql.com/"><img src="https://icon-library.com/images/mysql-icon/mysql-icon-3.jpg" title="MySQL" alt="mysql" height="30"/></a>
 <a href="https://sequelize.org/v6/"><img src="https://seeklogo.com/images/S/sequelize-logo-9A5075DB9F-seeklogo.com.png" title= "Sequelize" alt="sequelize" width="25" height="25"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="javascript" width="25" height="25"/></a>
 <a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="nodejs" width="25" height="25"/></a>
-<a href="https://expressjs.com"><img src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png" title= "Express" alt="express" width="25" height="25"/></a>
+<a href="https://expressjs.com"><img src="https://images.tute.io/tute/topic/express-js.png" title= "Express" alt="express" width="25" height="25"/></a>
 <a href="https://jwt.io/introduction"><img src="https://vegibit.com/wp-content/uploads/2018/07/JSON-Web-Token-Authentication-With-Node.png" title= "JWT" alt="jwt" height="25"/></a>
 
 #### Bloco 30 - Sockets
@@ -313,18 +635,18 @@ Ainda, introdução ao ORM (object relational mapping) Sequelize. Os ORMs permit
 Introdução ao padrão arquitetural MVC (Model-View-Controller) utilizando EJS (Embedded JavaScript) como *template engine* e ao pacote Socket.io - uma ferramenta usada para criar aplicações em tempo-real, como aplicativos de mensagens instantâneas, streaming e colaboração em documentos.
 
 > Projeto individual: **[Webchat](https://github.com/willian-prado/webchat)** - Tecnologias:
-<a href="https://www.mongodb.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png" title="MongoDB" alt="mongodb" height="25"/></a>
+<a href="https://www.mongodb.com/"><img src="https://www.svgrepo.com/show/331488/mongodb.svg" title="MongoDB" alt="mongodb" height="25"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="javascript" width="25" height="25"/></a>
 <a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="nodejs" width="25" height="25"/></a>
-<a href="https://expressjs.com"><img src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png" title= "Express" alt="express" width="25" height="25"/></a>
-<a href="https://socket.io/"><img src="https://img2.gratispng.com/20180825/veg/kisspng-socket-io-node-js-javascript-network-socket-websoc-socket-io-logo-in-svg-jpg-png-5b81a6e505cd53.3223084015352235250238.jpg" title= "Socket.io" alt="socket.io" height="25"/></a>
+<a href="https://expressjs.com"><img src="https://images.tute.io/tute/topic/express-js.png" title= "Express" alt="express" width="25" height="25"/></a>
+<a href="https://socket.io/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Socket-io.svg/1200px-Socket-io.svg.png" title= "Socket.io" alt="socket.io" height="27"/></a>
 
 #### Bloco 31 - Projeto - App de Delivery
 
 Prática de metodologias ágeis, soft skills, React, Redux, Node, Express, MySQL, Sequelize e comunicação entre back-end e front-end de uma aplicação.
 
 > Projeto em grupo: **[Delivery App](https://github.com/willian-prado/delivery-app)** - Tecnologias:
-<a href="https://www.mysql.com/"><img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" title="MySQL" alt="mysql" height="25"/></a>
+<a href="https://www.mysql.com/"><img src="https://icon-library.com/images/mysql-icon/mysql-icon-3.jpg" title="MySQL" alt="mysql" height="30"/></a>
 <a href="https://sequelize.org/v6/"><img src="https://seeklogo.com/images/S/sequelize-logo-9A5075DB9F-seeklogo.com.png" title= "Sequelize" alt="sequelize" width="25" height="25"/></a>
 <a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="html5" width="30" height="30"/></a> 
 <a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" title="CCS3" alt="css3" width="30" height="30"/></a>
@@ -332,7 +654,7 @@ Prática de metodologias ágeis, soft skills, React, Redux, Node, Express, MySQL
 <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" title="React" alt="react" width="30" height="30"/></a>
 <a href="https://redux.js.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" title="Redux" alt="redux" width="30" height="30"/></a>
 <a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="nodejs" width="25" height="25"/></a>
-<a href="https://expressjs.com"><img src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png" title= "Express" alt="express" width="25" height="25"/></a>
+<a href="https://expressjs.com"><img src="https://images.tute.io/tute/topic/express-js.png" title= "Express" alt="express" width="25" height="25"/></a>
 <a href="https://jwt.io/introduction"><img src="https://vegibit.com/wp-content/uploads/2018/07/JSON-Web-Token-Authentication-With-Node.png" title= "JWT" alt="jwt" height="25"/></a>
 <a href="https://trello.com/"><img src="https://trackingtime.co/wp-content/themes/trackingtime-v4/img/temp/logos/trello.png" title="Trello" alt="trello" width="25" height="25"/></a>
 
