@@ -1,4 +1,4 @@
-# Boas-vindas ao repositório de projetos do curso de desenvolvimento web da Trybe!
+# Boas-vindas ao repositório de histórico de projetos do curso de desenvolvimento web da Trybe!
 
 Aqui deixarei registrado todos os projetos que desenvolvi ao longo do curso, com uma breve descrição do que foi aprendido em cada um dos blocos em que foram realizados.
 
