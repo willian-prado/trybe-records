@@ -7,22 +7,22 @@ Aqui deixarei registrado todos os projetos que desenvolvi ao longo do curso, com
 ## Acesso rápido aos projetos
 
 <table>
-  <tr>
+  <tr align="center">
     <th>Bloco</th>
     <th>Projeto</th>
     <th>Principais Tecnologias</th>
   </tr>
-  <tr>
+  <tr align="center">
     <td>Bloco 1 - Unix & Bash</td>
     <td> - </td>
     <td> - </td>
   </tr>
-  <tr>
+  <tr align="center">
     <td>Bloco 2 - Git, GitHub e Internet</td>
     <td> - </td>
     <td> - </td>
   </tr>
-  <tr>
+  <tr align="center">
     <td>Bloco 3 - Introdução à HTML e CSS</td>
     <td><a href="https://github.com/willian-prado/lessons-learned">Lessons Learned</a></td>
     <td>
@@ -30,14 +30,14 @@ Aqui deixarei registrado todos os projetos que desenvolvi ao longo do curso, com
       <a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"               title="CCS3" alt="css3" width="30" height="30"/></a>
     </td>
   </tr>
-  <tr>
+  <tr align="center">
     <td>Bloco 4 - Introdução à JavaScript e Lógica de Programação</td>
     <td><a href="https://github.com/willian-prado/playground-functions">Playground Functions</a></td>
     <td>
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="javascript" height="25"/></a>
     </td>
   </tr>
-  <tr>
+  <tr align="center">
     <td>Bloco 5 - JavaScript: DOM, Eventos e Web Storage</td>
     <td><a href="https://github.com/willian-prado/pixels-art">Pixels Art</a></td>
     <td>
@@ -46,7 +46,7 @@ Aqui deixarei registrado todos os projetos que desenvolvi ao longo do curso, com
 <a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" title="CCS3" alt="css3" width="30" height="30"/></a>
     </td>
   </tr>
-  <tr>
+  <tr align="center">
     <td>Bloco 5 - JavaScript: DOM, Eventos e Web Storage</td>
     <td><a href="https://github.com/willian-prado/todo-list">Todo List</a></td>
     <td>
