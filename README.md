@@ -304,7 +304,7 @@ Aqui deixarei registrado todos os projetos que desenvolvi ao longo do curso, com
   </tr>
   <tr>
     <td>Bloco 34 - Redes e Raspagem de Dados</td>
-    <td><a>Tech News</a></td>
+    <td><a href="https://github.com/willian-prado/tech-news">Tech News</a></td>
     <td>
 <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" alt="python" height="30"/></a> 
     </td>
