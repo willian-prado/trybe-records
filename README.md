@@ -328,7 +328,7 @@ Aqui deixarei registrado todos os projetos que desenvolvi ao longo do curso, com
 
 ## Introdução
 
-O curso da Trybe foi criado para quem deseja seguir uma carreira em tecnologia e conta com mais de 1.500 horas de aulas presenciais e on-line. Ele aborda introdução ao desenvolvimento de software, front-end, back-end, ciência da computação, engenharia de software, metodologias ágeis e habilidades comportamentais.
+O curso da Trybe foi criado para quem deseja seguir uma carreira em tecnologia e conta com mais de 1.500 horas de conteúdos síncronos (aulas e dinâmicas ao vivo) e assíncronos (vídeos gravados e textos disponíveis na plataforma). Ele aborda introdução ao desenvolvimento de software, front-end, back-end, ciência da computação, engenharia de software, metodologias ágeis e habilidades comportamentais.
 O currículo da Trybe, desenhado em parceria com as maiores empresas de tecnologia do Brasil e do mundo, permite que ao longo da formação estudemos JavaScript, HTML, CSS, React, Node, Express.js, SQL, Git, entre outras linguagens e frameworks.
 
 <hr>
