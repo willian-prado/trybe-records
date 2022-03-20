@@ -311,8 +311,9 @@ Aqui deixarei registrado todos os projetos que desenvolvi ao longo do curso, com
   </tr>
   <tr>
     <td>Bloco 35 - Algoritmos</td>
-    <td><a>-</a></td>
-    <td>-</td>
+    <td><a>Algorithms</a></td>
+    <td>
+<a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" alt="python" height="30"/></a></td>
   </tr>
   <tr>
     <td>Bloco 36 - Estrutura de Dados I: Arrays, Hashmaps e Sets</td>
