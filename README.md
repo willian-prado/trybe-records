@@ -676,6 +676,13 @@ Revisão sobre princípios SOLID e primeiro contato com a abordagem POO (Program
 <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" alt="python" height="35"/></a> 
 
 #### Bloco 34 - Redes e Raspagem de Dados
+
+Estudamos os principais conceitos sobre arquitetura de redes e como a internet e as diversas redes funcionam com seus diversos protocolos.
+Aprendemos também técnicas para realizar a raspagem de dados com Python, utilizando as bibliotecas `requests` e `parsel`.
+
+> Projeto individual: **[Tech News](https://github.com/willian-prado/tech-news)** - Tecnologias:
+<a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" alt="python" height="35"/></a> 
+
 #### Bloco 35 - Algoritmos
 #### Bloco 36 - Estrutura de Dados I: Arrays, Hashmaps e Sets
 #### Bloco 37 - Estrutura de Dados II: Listas, Filas e Pilhas
