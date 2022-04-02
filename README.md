@@ -311,7 +311,7 @@ Aqui deixarei registrado todos os projetos que desenvolvi ao longo do curso, com
   </tr>
   <tr>
     <td>Bloco 35 - Algoritmos</td>
-    <td><a>Algorithms</a></td>
+    <td><a href="https://github.com/willian-prado/algorithms">Algorithms</a></td>
     <td>
 <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" alt="python" height="30"/></a></td>
   </tr>
