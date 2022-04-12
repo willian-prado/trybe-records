@@ -1,6 +1,6 @@
 # Boas-vindas ao repositório de projetos realizados no curso de desenvolvimento web da Trybe!
 
-Aqui deixarei registrado todos os projetos que desenvolvi ao longo do curso, com uma breve descrição do que foi aprendido em cada um dos blocos em que foram realizados.
+Aqui estão registrados todos os projetos realizados no curso, além de uma breve descrição do que foi aprendido em cada um dos blocos.
 
 <hr>
 
@@ -323,8 +323,9 @@ Aqui deixarei registrado todos os projetos que desenvolvi ao longo do curso, com
   </tr>
   <tr>
     <td>Bloco 37 - Estrutura de Dados II: Listas, Filas e Pilhas</td>
-    <td><a>-</a></td>
-    <td>-</td>
+    <td><a href="https://github.com/willian-prado/trybe-is-not-google">Trybe Is Not Google</a></td>
+    <td>
+<a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" alt="python" height="30"/></a></td>
   </tr>
 </table>
 
@@ -678,13 +679,19 @@ Revisão sobre princípios SOLID e primeiro contato com a abordagem POO (Program
 
 #### Bloco 34 - Redes e Raspagem de Dados
 
-Estudamos os principais conceitos sobre arquitetura de redes e como a internet e as diversas redes funcionam com seus diversos protocolos.
+Estudamos os principais conceitos sobre arquitetura de redes e sobre o funcionamento com seus diversos protocolos.
 Aprendemos também técnicas para realizar a raspagem de dados com Python, utilizando as bibliotecas `requests` e `parsel`.
 
 > Projeto individual: **[Tech News](https://github.com/willian-prado/tech-news)** - Tecnologias:
 <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" alt="python" height="35"/></a> 
 
 #### Bloco 35 - Algoritmos
+
+Introdução ao estudo de complexidade complexidade de tempo e espaço em algorítmos, incluindo noções básicas para identificar complexidades linear, quadrática, logaritmica, exponencial e fatorial. Aprendemos também sobre recursividade e algoritmicos de ordenação.
+
+> Projeto individual: **[Algorithms](https://github.com/willian-prado/algorithms)** - Tecnologias:
+<a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" alt="python" height="35"/></a> 
+
 #### Bloco 36 - Estrutura de Dados I: Arrays, Hashmaps e Sets
 #### Bloco 37 - Estrutura de Dados II: Listas, Filas e Pilhas
 
