@@ -687,12 +687,18 @@ Aprendemos também técnicas para realizar a raspagem de dados com Python, utili
 
 #### Bloco 35 - Algoritmos
 
-Introdução ao estudo de complexidade complexidade de tempo e espaço em algorítmos, incluindo noções básicas para identificar complexidades linear, quadrática, logaritmica, exponencial e fatorial. Aprendemos também sobre recursividade e algoritmicos de ordenação.
+Introdução ao estudo de complexidade de tempo e espaço em algorítmos, incluindo noções básicas para identificar complexidades linear, quadrática, logaritmica, exponencial e fatorial. Aprendemos também sobre recursividade e algoritmicos de ordenação.
 
 > Projeto individual: **[Algorithms](https://github.com/willian-prado/algorithms)** - Tecnologias:
 <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" alt="python" height="35"/></a> 
 
 #### Bloco 36 - Estrutura de Dados I: Arrays, Hashmaps e Sets
+
+Começamos estudando as bases que permitem o funcionamento dos vários componentes que formam o computador. Depois, partimos para o estudo de várias estruturas de dados, incluindo arrays, hashmaps e sets.
+
+> Projeto individual: **[Restaurant Orders](https://github.com/willian-prado/restaurant-orders)** - Tecnologias:
+<a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" alt="python" height="35"/></a> 
+
 #### Bloco 37 - Estrutura de Dados II: Listas, Filas e Pilhas
 
 <hr>
