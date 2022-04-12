@@ -701,6 +701,11 @@ Começamos estudando as bases que permitem o funcionamento dos vários component
 
 #### Bloco 37 - Estrutura de Dados II: Listas, Filas e Pilhas
 
+Finalizamos o estudo de estrutura de dados, trabalhando com nós, linked lists e double-linked lists, filas e pilhas.
+
+> Projeto individual: **[Trybe Is Not Google](https://github.com/willian-prado/trybe-is-not-google)** - Tecnologias:
+<a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" alt="python" height="35"/></a> 
+
 <hr>
 
 ## Certificados
