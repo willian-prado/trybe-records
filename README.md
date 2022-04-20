@@ -351,11 +351,11 @@ O conteúdo de Hard skills é dividido em quatro módulos: Fundamentos do Desenv
 
 #### Bloco 1 - Unix & Bash
 
-Introdução ao sistema operacional Unix e comandos básicos Bash utilizando o terminal. Entre os comandos aprendidos temos: `ls`, `less`, `cp`, `mv`, `head`, `tail`, `rm`, `pwd`, `grep`, entre outros.
+Introdução ao sistema operacional Unix e comandos básicos Bash utilizando o terminal. Entre os comandos aprendidos temos: `ls`, `less`, `cp`, `mv`, `head`, `tail`, `rm`, `pwd`, `grep`, etc.
 
 #### Bloco 2 - Git, GitHub e Internet
 
-Introdução a Git e GitHub, o sistema de controle de versionamento de códigos mais utilizado. Nesse bloco aprendemos a criar nosso primeiro repositório Git e também a subí-lo ao GitHub. Além disso, conhecemos um pouco sobre o modelo cliente - servidor e requisições HTTP.
+Introdução ao Git e GitHub, sistemas de controle de versionamento de código local e remoto, respectivamente. Nesse bloco aprendemos a criar nosso primeiro repositório Git e também a subí-lo ao GitHub. Além disso, conhecemos um pouco sobre o modelo cliente - servidor e requisições HTTP.
 
 #### Bloco 3 - Introdução à HTML e CSS
 
@@ -374,7 +374,7 @@ Primeiro contato com JavaScript, aprendemos sobre variáveis, constantes, tipos 
 
 #### Bloco 5 - JavaScript: DOM, Eventos e Web Storage
 
-Introdução ao DOM (Document Object Model) e como manipular sua estrutura utilizando seletores e código JavaScript. Aprendemos ainda sobre como criar eventos que permitem a interação do usuário com a página e uso do Web Storage para salvar dados das pessoas nos browsers.
+Introdução ao DOM (Document Object Model) e como manipular sua estrutura utilizando seletores e código JavaScript. Aprendemos ainda a criar eventos que permitem a interação do usuário com a página e a usar o Web Storage para salvar dados das pessoas nos browsers.
 
 > Projeto individual: **[Pixels Art](https://github.com/willian-prado/pixels-art)** - Tecnologias:
 <a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="html5" width="30" height="30"/></a> 
@@ -405,14 +405,14 @@ Estudamos sobre as features introduzidas na versão ES6 do JavaScript, como `let
 
 #### Bloco 8 - Higher Order Functions do JavaScript ES6
 
-Conceitos de first-class function e higher order function, métodos de manipulação de arrays, tais como forEach, map, filter, reduce, every, sort, find, entre outras.
+Conceitos de first-class function e higher order function, métodos de manipulação de arrays, tais como `forEach`, `map`, `filter`, `reduce`, `every`, `sort`, `find`, entre outras.
 
 > Projeto individual: **[Zoo Functions](https://github.com/willian-prado/zoo-functions)** - Tecnologias:
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="javascript" width="25" height="25"/></a>
 
 #### Bloco 9 - JavaScript e Testes Assíncronos
 
-Praticamos a construção de código assíncrono, usando callbacks e promises. Além disso, aprendemos sobre testes automatizados usando a biblioteca Jest, usando Jest assíncrono e Mocks aplicados a testes em Javascript.
+Praticamos a construção de código assíncrono, usando callbacks e promises. Além disso, aprendemos sobre testes automatizados com a biblioteca Jest, usando Jest assíncrono e Mocks aplicados a testes em Javascript.
 
 > Projeto individual: **[Shopping Cart](https://github.com/willian-prado/shopping-cart)** - Tecnologias:
 <a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="html5" width="30" height="30"/></a> 
@@ -509,7 +509,7 @@ Prática de metodologias ágeis, soft skills e React-Redux.
 
 #### Bloco 17 - Context API e React Hooks
 
-Introdução às funcionalidades mais avançadas em React, como: Context API, para gerenciamento do estado global da aplicação; e React Hooks, que permite a utilização de componentes funcionais com estado e outras funcionalidades.
+Introdução a funcionalidades mais avançadas em React, como: Context API, para gerenciamento do estado global da aplicação; e React Hooks, que permite a utilização de componentes funcionais com estado e outras funcionalidades.
 
 > Projeto individual: **[Star Wars Planets Search](https://github.com/willian-prado/star-wars-planets-search)** - Tecnologias:
 <a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="html5" width="30" height="30"/></a>
@@ -543,7 +543,7 @@ Introdução aos bancos de dados relacionais, utilizando MySQL e MySQL Workbench
 #### Bloco 20 - Funções SQL, JOINs e Normalização
 
 Aprendemos sobre a utilização de funções para manipulação de dados SQL, como funções para manipulação de strings, estruturas condicionais e funções matemáticas.
-Além disso, vimos como unir informações presentes em mais de uma tabela por meios dos JOINs e a criar nossas próprias funções.
+Além disso, vimos como unir informações presentes em mais de uma tabela por meios dos vários JOINs e a criar nossas próprias funções.
 
 > Projeto individual: **[Vocabulary Booster](https://github.com/willian-prado/mysql-vocabulary-booster)** - Tecnologias: 
 <a href="https://www.mysql.com/"><img src="https://icon-library.com/images/mysql-icon/mysql-icon-3.jpg" title="MySQL" alt="mysql" height="30"/></a>
@@ -634,7 +634,7 @@ Ainda, introdução ao ORM (object relational mapping) Sequelize. Os ORMs permit
 
 #### Bloco 30 - Sockets
 
-Apresentação ao padrão arquitetural MVC (Model-View-Controller) utilizando EJS (Embedded JavaScript) como *template engine* e ao pacote Socket.io - uma ferramenta usada para criar aplicações em tempo-real, como aplicativos de mensagens instantâneas, streaming e colaboração em documentos.
+Apresentação do padrão arquitetural MVC (Model-View-Controller) utilizando EJS (Embedded JavaScript) como *template engine* e ao pacote Socket.io - uma ferramenta usada para criar aplicações em tempo-real, como aplicativos de mensagens instantâneas, streaming e colaboração em documentos.
 
 > Projeto individual: **[Webchat](https://github.com/willian-prado/webchat)** - Tecnologias:
 <a href="https://www.mongodb.com/"><img src="https://www.svgrepo.com/show/331488/mongodb.svg" title="MongoDB" alt="mongodb" height="25"/></a>
@@ -664,7 +664,7 @@ Prática de metodologias ágeis, soft skills, React, Redux, Node, Express, MySQL
 
 #### Bloco 32 - Introdução à Python
 
-Introdução à linguagem de programação Python, desde a sua instalação, configuração do ambiente de desenvolvimento, sintaxe e principais conceitos, como diferentes tipos de variáveis, métodos e principais funções.
+Introdução à linguagem de programação Python, desde a sua instalação, configuração do ambiente de desenvolvimento, sintaxe, diferentes tipos de variáveis, métodos e principais funções.
 
 > Projeto individual: **[Job Insights](https://github.com/willian-prado/job-insights)** - Tecnologias:
 <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" alt="python" height="35"/></a> 
