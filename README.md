@@ -1,6 +1,6 @@
-# Boas-vindas ao repositório de projetos realizados no curso de desenvolvimento web da Trybe!
+# Boas-vindas ao repositório Trybe History
 
-Aqui estão registrados todos os projetos realizados no curso, além de uma breve descrição do que foi aprendido em cada um dos blocos.
+Aqui estão registrados todos os projetos realizados no curso da Trybe, além de uma breve descrição do que foi aprendido em cada um dos blocos.
 
 <hr>
 
@@ -13,7 +13,7 @@ Aqui estão registrados todos os projetos realizados no curso, além de uma brev
     <th>Principais Tecnologias</th>
   </tr>
   <tr>
-    <td>Bloco 1 - Unix & Bash</td>
+    <td><a href="https://github.com/willian-prado/trybe-history#1---fundamentos-do-desenvolvimento-web">Bloco 1 - Unix & Bash</a></td>
     <td>  </td>
     <td>  </td>
   </tr>
