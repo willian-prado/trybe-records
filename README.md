@@ -726,7 +726,6 @@ Finalizamos o estudo de estrutura de dados, trabalhando com nós, linked lists, 
 
 ## Contato
 
-Nome: Willian Santos Prado \
-Telefone: (31) 97502-0529 \
-E-mail: this.willprado@gmail.com \
-Linkedin: https://www.linkedin.com/in/willian-prado-dev/
+<a href="mailto:this.willprado@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
+
+<a href="https://www.linkedin.com/in/willian-prado-dev/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
