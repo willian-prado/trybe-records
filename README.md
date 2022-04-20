@@ -1,4 +1,4 @@
-# Boas-vindas ao repositório Trybe Record
+# Boas-vindas ao repositório Trybe Records
 
 Aqui está um histórico com todos os projetos realizados no curso da Trybe, além de uma breve descrição do que foi aprendido em cada um dos blocos.
 
