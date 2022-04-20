@@ -1,4 +1,4 @@
-# Boas-vindas ao repositório Trybe History
+# Boas-vindas ao repositório Histórico Trybe
 
 Aqui estão registrados todos os projetos realizados no curso da Trybe, além de uma breve descrição do que foi aprendido em cada um dos blocos.
 
