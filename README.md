@@ -450,7 +450,7 @@ Utilização de estado de componentes, captura de eventos usando a sintaxe do Re
 
 Introdução aos conceitos de ciclo de vida de componentes e roteamento de páginas usando a biblioteca React Router.
 
-> Projeto individual: **[Movie Cards Library CRUD](https://github.com/willian-prado/movie-cards-iibrary-crud)** - Tecnologias:
+> Projeto individual: **[Movie Cards Library CRUD](https://github.com/willian-prado/movie-cards-library-crud)** - Tecnologias:
 <a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="html5" width="30" height="30"/></a> 
 <a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" title="CCS3" alt="css3" width="30" height="30"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="javascript" width="25" height="25"/></a>
@@ -459,7 +459,7 @@ Introdução aos conceitos de ciclo de vida de componentes e roteamento de pági
 
 #### Bloco 13 - Metodologias Ágeis
 
-Aprendemos sobre os métodos ágeis, metodologia que incentiva o desenvolvimento de projetos por meio de comunicação frequente, entregas incrementais, foco no cliente e trabalho em equipe.
+Introdução aos métodos ágeis, que incentivam, entre outras coisas, o desenvolvimento de projetos por meio de comunicação frequente, entregas incrementais, foco no cliente e trabalho em equipe.
 
 > Projeto em grupo: **[Frontend Online Store](https://github.com/willian-prado/frontend-online-store)** - Tecnologias:
 <a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="html5" width="30" height="30"/></a> 
@@ -566,8 +566,7 @@ Alguns dos métodos vistos foram `find()`, `insertOne()`, `insertMany()`, `delet
 
 #### Bloco 23 - MongoDB: Updates Simples e Complexos
 
-Utilização dos métodos `updateOne()` e `updateMany()` junto de operadores (por exemplo, `$set`, `$mul` e `$inc`) para updates simples em documentos MongoDB.
-Bem como updates complexos, alterando informações presentes em arrays.
+Utilização dos métodos `updateOne()` e `updateMany()` junto de operadores (por exemplo, `$set`, `$mul` e `$inc`) para updates simples em documentos MongoDB. Além disso, prática de updates complexos, alterando informações presentes em arrays.
 
 > Projeto individual: **[Commerce](https://github.com/willian-prado/mongodb-commerce)** - Tecnologias:
 <a href="https://www.mongodb.com/"><img src="https://www.svgrepo.com/show/331488/mongodb.svg" title="MongoDB" alt="mongodb" height="25"/></a>
@@ -581,7 +580,7 @@ Introdução ao Aggregation Framework, conjunto de ferramentas modelado sob o co
 
 #### Bloco 25 - Introdução ao desenvolvimento Web com Node.js
 
-Introdução ao`NodeJS` e NPM, leitura e escrita de arquivos com o módulo `fs` de forma síncrona e assíncrona e construção de testes para NodeJS usando Mocha , Chai e Sinon. Além disso, dar os primeiros passos com um dos frameworks mais importantes para construção de APIs em NodeJS, o `Express`.
+Introdução ao`NodeJS` e NPM, leitura e escrita de arquivos com o módulo `fs` de forma síncrona e assíncrona e construção de testes para NodeJS usando Mocha, Chai e Sinon. Além disso, dar os primeiros passos com um dos frameworks mais utilizados para construção de APIs em NodeJS, o `Express`.
 
 > Projeto individual: **[Talker Manager](https://github.com/willian-prado/talker-manager)** - Tecnologias:
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="javascript" width="25" height="25"/></a>
@@ -646,7 +645,7 @@ Introdução ao padrão arquitetural MVC (Model-View-Controller) utilizando EJS 
 
 #### Bloco 31 - Projeto - App de Delivery
 
-Prática de metodologias ágeis, soft skills, React, Redux, Node, Express, MySQL, Sequelize e comunicação entre back-end e front-end de uma aplicação.
+Prática de metodologias ágeis, soft skills, React, Redux, Node, Express, MySQL, Sequelize e comunicação entre o back-end e front-end de uma aplicação.
 
 > Projeto em grupo: **[Delivery App](https://github.com/willian-prado/delivery-app)** - Tecnologias:
 <a href="https://www.mysql.com/"><img src="https://icon-library.com/images/mysql-icon/mysql-icon-3.jpg" title="MySQL" alt="mysql" height="30"/></a>
@@ -687,7 +686,7 @@ Aprendemos também técnicas para realizar a raspagem de dados com Python, utili
 
 #### Bloco 35 - Algoritmos
 
-Introdução ao estudo de complexidade de tempo e espaço em algorítmos, incluindo noções básicas para identificar complexidades linear, quadrática, logaritmica, exponencial e fatorial. Aprendemos também sobre recursividade e algoritmicos de ordenação.
+Introdução ao estudo de complexidade de tempo e espaço em algorítmos, incluindo noções básicas para identificar complexidades linear, quadrática, logaritmica, exponencial e fatorial. Aprendemos também sobre recursividade e algoritmos de ordenação.
 
 > Projeto individual: **[Algorithms](https://github.com/willian-prado/algorithms)** - Tecnologias:
 <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" alt="python" height="35"/></a> 
@@ -701,7 +700,7 @@ Começamos estudando as bases que permitem o funcionamento dos vários component
 
 #### Bloco 37 - Estrutura de Dados II: Listas, Filas e Pilhas
 
-Finalizamos o estudo de estrutura de dados, trabalhando com nós, linked lists e double-linked lists, filas e pilhas.
+Finalizamos o estudo de estrutura de dados, trabalhando com nós, linked lists, double-linked lists, filas e pilhas.
 
 > Projeto individual: **[Trybe Is Not Google](https://github.com/willian-prado/trybe-is-not-google)** - Tecnologias:
 <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" alt="python" height="35"/></a> 
