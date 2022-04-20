@@ -720,8 +720,6 @@ Finalizamos o estudo de estrutura de dados, trabalhando com nós, linked lists, 
 
 <img src="https://github.com/willian-prado/trybe-records/blob/main/certificates/trybe-modulo-backend.png?raw=true" height="500"/>
 
-### Módulo Ciência da Computação
-
 <hr>
 
 ## Contato
