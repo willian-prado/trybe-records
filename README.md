@@ -448,7 +448,7 @@ Utilização de estado de componentes, captura de eventos usando a sintaxe do Re
 
 #### Bloco 12 - Ciclo de Vida de Componentes e React Router
 
-Introdução aos conceitos de ciclo de vida de componentes e roteamento de páginas usando a biblioteca React Router.
+Conceitos de ciclo de vida de componentes e roteamento de páginas usando a biblioteca React Router.
 
 > Projeto individual: **[Movie Cards Library CRUD](https://github.com/willian-prado/movie-cards-library-crud)** - Tecnologias:
 <a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="html5" width="30" height="30"/></a> 
@@ -471,7 +471,7 @@ Introdução aos métodos ágeis, que incentivam, entre outras coisas, o desenvo
 
 #### Bloco 14 - Testes automatizados com React Testing Library
 
-Fomos introduzidos ao uso de testes automatizados com RTL (React Testing Library), a biblioteca de testes recomendada pela documentação oficial do React.
+Construção de testes automatizados com RTL (React Testing Library), a biblioteca de testes recomendada pela documentação oficial do React.
 
 > Projeto individual: **[React Testing Library](https://github.com/willian-prado/react-testing-library)** - Tecnologias:
 <a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="html5" width="30" height="30"/></a> 
@@ -589,7 +589,7 @@ Introdução ao`NodeJS` e NPM, leitura e escrita de arquivos com o módulo `fs` 
 
 #### Bloco 26 - Node.js: Camada de Serviço e Arquitetura Rest e Restful
 
-Organização de uma aplicação Node e Express em camadas de responsabilidades, usando a arquitetura MSC (Model-Service-Controller) e dentro do padrão REST. Fizemos a construção de APIs RESTful, incluindo conexão com banco de dados MongoDB ou MySQL, validação de requisições, estruturação de regras de negócio, tratamento de possíveis erros e mais.
+Organização de uma aplicação Node e Express em camadas de responsabilidades, usando a arquitetura MSC (Model, Service e Controller) e dentro do padrão REST. Fizemos a construção de APIs RESTful, usando conexão com banco de dados MongoDB ou MySQL, validação de requisições, estruturação de regras de negócio, tratamento de possíveis erros e mais.
 
 > Projeto individual: **[Store Manager](https://github.com/willian-prado/store-manager)** - Tecnologias:
 <a href="https://www.mongodb.com/"><img src="https://www.svgrepo.com/show/331488/mongodb.svg" title="MongoDB" alt="mongodb" height="25"/></a>
@@ -599,7 +599,7 @@ Organização de uma aplicação Node e Express em camadas de responsabilidades,
 
 #### Bloco 27 - Autenticação e Upload de Arquivos
 
-Construção de uma API Restful contendo um middleware de autenticação `JWT`, upload de arquivos com `multer` e criação de testes de integração com `Mocha`, `Chai` e `Sinon`.
+Construção de APIs Restful contendo middlewares de autenticação `JWT` e de upload de arquivos com `multer`. Criação de testes de integração com `Mocha`, `Chai` e `Sinon`.
 
 > Projeto individual: **[Cookmaster](https://github.com/willian-prado/cookmaster)** - Tecnologias:
 <a href="https://www.mongodb.com/"><img src="https://www.svgrepo.com/show/331488/mongodb.svg" title="MongoDB" alt="mongodb" height="25"/></a>
@@ -622,7 +622,7 @@ Configuração do deploy de uma aplicação Node e React pelo `Heroku` e gerenci
 #### Bloco 29 - Arquitetura: SOLID e ORM
 
 Noções sobre os cinco princípios SOLID, série de normas e padrões para construir um código mais organizado, otimizando manutenção, legibilidade e testabilidade. 
-Ainda, introdução ao ORM (object relational mapping) Sequelize. Os ORMs permitem criar e alterar tabelas, fazer consultas, inserir e extrair dados do seu banco de dados através de código JavaScript. O Sequelize é um ORM do tipo Active Record que permite a utilização de diferentes tipos de bancos de dados, incluindo MySQL, PostgreSQL, MariaDB e SQLServer.
+Ainda, introdução ao ORM (Object Relational Mapping) Sequelize. Os ORMs permitem criar e alterar tabelas, fazer consultas, inserir e extrair dados do seu banco de dados através de código JavaScript. O Sequelize é um ORM do tipo Active Record que permite a utilização de diferentes tipos de bancos de dados, incluindo MySQL, PostgreSQL, MariaDB e SQLServer.
 
 > Projeto individual: **[Blogs API](https://github.com/willian-prado/blogs-api)** - Tecnologias:
 <a href="https://www.mysql.com/"><img src="https://icon-library.com/images/mysql-icon/mysql-icon-3.jpg" title="MySQL" alt="mysql" height="30"/></a>
@@ -634,7 +634,7 @@ Ainda, introdução ao ORM (object relational mapping) Sequelize. Os ORMs permit
 
 #### Bloco 30 - Sockets
 
-Apresentação do padrão arquitetural MVC (Model-View-Controller) utilizando EJS (Embedded JavaScript) como *template engine* e ao pacote Socket.io - uma ferramenta usada para criar aplicações em tempo-real, como aplicativos de mensagens instantâneas, streaming e colaboração em documentos.
+Apresentação do padrão arquitetural MVC (Model, View e Controller) utilizando EJS (Embedded JavaScript) como *template engine* e ao pacote Socket.io - uma ferramenta usada para criar aplicações em tempo-real, como aplicativos de mensagens instantâneas, streaming e colaboração em documentos.
 
 > Projeto individual: **[Webchat](https://github.com/willian-prado/webchat)** - Tecnologias:
 <a href="https://www.mongodb.com/"><img src="https://www.svgrepo.com/show/331488/mongodb.svg" title="MongoDB" alt="mongodb" height="25"/></a>
