@@ -198,7 +198,7 @@ Aqui está um histórico com todos os projetos realizados no curso da Trybe, al�
   </tr>
   <tr>
     <td><a href="https://github.com/willian-prado/trybe-history#bloco-22---introdu%C3%A7%C3%A3o-ao-mongodb">Bloco 22 - Introdução ao MongoDB</a></td>
-    <td><a href="https://github.com/willian-prado/mongodb-dataflights">DataFlights</a></td>
+    <td><a href="https://github.com/willian-prado/mongodb-dataflights">Dataflights</a></td>
     <td>
  <a href="https://www.mongodb.com/"><img src="https://www.svgrepo.com/show/331488/mongodb.svg" title="MongoDB" alt="mongodb" height="22"/></a>
     </td>
@@ -561,7 +561,7 @@ Conceitos sobre bancos de dados NoSQL, incluindo os diferentes tipos de classes 
 Introdução ao MongoDB, um banco NoSQL da classe `Documentos`, incluindo instalação, conexão e execução de comandos básicos de leitura/escrita.
 Alguns dos métodos vistos foram `find()`, `insertOne()`, `insertMany()`, `deleteOne()`, `deleteMany()` e operadores de comparação e lógicos (usados em conjunto do `find()`).
 
-> Projeto individual: **[DataFlights](https://github.com/willian-prado/mongodb-dataflights)** - Tecnologias:
+> Projeto individual: **[Dataflights](https://github.com/willian-prado/mongodb-dataflights)** - Tecnologias:
 <a href="https://www.mongodb.com/"><img src="https://www.svgrepo.com/show/331488/mongodb.svg" title="MongoDB" alt="mongodb" height="25"/></a>
 
 #### Bloco 23 - MongoDB: Updates Simples e Complexos
