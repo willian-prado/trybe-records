@@ -710,15 +710,15 @@ Finalizamos o estudo de estrutura de dados, trabalhando com nós, linked lists, 
 
 ### Módulo Fundamentos do Desenvolvimento Web
 
-<img src="https://github.com/willian-prado/trybe-records/blob/main/certificates/trybe-modulo-fundamentos.png?raw=true" height="500"/>
+<img src="https://github.com/willian-prado/trybe-records/blob/main/certificados/trybe-modulo-fundamentos.png?raw=true" height="500"/>
 
 ### Módulo Desenvolvimento Front-end
 
-<img src="https://github.com/willian-prado/trybe-records/blob/main/certificates/trybe-modulo-frontend.png?raw=true" height="500"/>
+<img src="https://github.com/willian-prado/trybe-records/blob/main/certificados/trybe-modulo-frontend.png?raw=true" height="500"/>
 
 ### Módulo Desenvolvimento Back-end
 
-<img src="https://github.com/willian-prado/trybe-records/blob/main/certificates/trybe-modulo-backend.png?raw=true" height="500"/>
+<img src="https://github.com/willian-prado/trybe-records/blob/main/certificados/trybe-modulo-backend.png?raw=true" height="500"/>
 
 <hr>
 
