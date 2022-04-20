@@ -18,12 +18,12 @@ Aqui estão registrados todos os projetos realizados no curso da Trybe, além de
     <td>  </td>
   </tr>
   <tr>
-    <td>Bloco 2 - Git, GitHub e Internet</td>
+    <td><a href="https://github.com/willian-prado/trybe-history#bloco-2---git-github-e-internet">Bloco 2 - Git, GitHub e Internet</a></td>
     <td>   </td>
     <td>   </td>
   </tr>
   <tr>
-    <td>Bloco 3 - Introdução à HTML e CSS</td>
+    <td><a href="https://github.com/willian-prado/trybe-history#bloco-3---introdu%C3%A7%C3%A3o-%C3%A0-html-e-css">Bloco 3 - Introdução à HTML e CSS</a></td>
     <td><a href="https://github.com/willian-prado/lessons-learned">Lessons Learned</a></td>
     <td>
       <a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"                   title="HTML5" alt="html5" width="30" height="30"/></a> 
@@ -31,14 +31,14 @@ Aqui estão registrados todos os projetos realizados no curso da Trybe, além de
     </td>
   </tr>
   <tr>
-    <td>Bloco 4 - Introdução à JavaScript e Lógica de Programação</td>
+    <td><a href="https://github.com/willian-prado/trybe-history#bloco-4---introdu%C3%A7%C3%A3o-%C3%A0-javascript-e-l%C3%B3gica-de-programa%C3%A7%C3%A3o">Bloco 4 - Introdução à JavaScript e Lógica de Programação</a></td>
     <td><a href="https://github.com/willian-prado/playground-functions">Playground Functions</a></td>
     <td>
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="javascript" height="25"/></a>
     </td>
   </tr>
   <tr>
-    <td>Bloco 5 - JavaScript: DOM, Eventos e Web Storage</td>
+    <td><a href="https://github.com/willian-prado/trybe-history#bloco-5---javascript-dom-eventos-e-web-storage">Bloco 5 - JavaScript: DOM, Eventos e Web Storage</a></td>
     <td><a href="https://github.com/willian-prado/pixels-art">Pixels Art</a></td>
     <td>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="javascript" height="25"/></a>
@@ -47,7 +47,7 @@ Aqui estão registrados todos os projetos realizados no curso da Trybe, além de
     </td>
   </tr>
   <tr>
-    <td>Bloco 5 - JavaScript: DOM, Eventos e Web Storage</td>
+    <td><a href="https://github.com/willian-prado/trybe-history#bloco-5---javascript-dom-eventos-e-web-storage">Bloco 5 - JavaScript: DOM, Eventos e Web Storage</a></td>
     <td><a href="https://github.com/willian-prado/todo-list">Todo List</a></td>
     <td>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="javascript" width="25" height="25"/></a>
@@ -56,7 +56,7 @@ Aqui estão registrados todos os projetos realizados no curso da Trybe, além de
     </td>
   </tr>
   <tr>
-    <td>Bloco 6 - HTML e CSS: Forms, Flexbox e Responsivo</td>
+    <td><a href="https://github.com/willian-prado/trybe-history#bloco-6---html-e-css-forms-flexbox-e-responsivo">Bloco 6 - HTML e CSS: Forms, Flexbox e Responsivo</a></td>
     <td><a href="https://github.com/willian-prado/trybewarts">Trybewarts</a></td>
     <td>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="javascript" width="25" height="25"/></a>
@@ -65,7 +65,7 @@ Aqui estão registrados todos os projetos realizados no curso da Trybe, além de
     </td>
   </tr>
   <tr>
-    <td>Bloco 7 - Introdução à JavaScript ES6 e Testes Unitários</td>
+    <td><a href="https://github.com/willian-prado/trybe-history#bloco-7---introdu%C3%A7%C3%A3o-%C3%A0-javascript-es6-e-testes-unit%C3%A1rios">Bloco 7 - Introdução à JavaScript ES6 e Testes Unitários</a></td>
     <td><a href="https://github.com/willian-prado/js-unit-tests">Js Unit Tests</a></td>
     <td>
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="javascript" width="25" height="25"/></a>
@@ -73,14 +73,14 @@ Aqui estão registrados todos os projetos realizados no curso da Trybe, além de
     </td>
   </tr>
   <tr>
-    <td>Bloco 8 - Higher Order Functions do JavaScript ES6</td>
+    <td><a href="https://github.com/willian-prado/trybe-history#bloco-8---higher-order-functions-do-javascript-es6">Bloco 8 - Higher Order Functions do JavaScript ES6</a></td>
     <td><a href="https://github.com/willian-prado/zoo-functions">Zoo Functions</a></td>
     <td>
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="javascript" width="25" height="25"/></a>
     </td>
   </tr>
   <tr>
-    <td>Bloco 9 - JavaScript e Testes Assíncronos</td>
+    <td><a href="https://github.com/willian-prado/trybe-history#bloco-9---javascript-e-testes-ass%C3%ADncronos">Bloco 9 - JavaScript e Testes Assíncronos</a></td>
     <td><a href="https://github.com/willian-prado/shopping-cart">Shopping Cart</a></td>
     <td>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="javascript" width="25" height="25"/></a>  
@@ -89,7 +89,7 @@ Aqui estão registrados todos os projetos realizados no curso da Trybe, além de
     </td>
   </tr>
   <tr>
-    <td>Bloco 9 - JavaScript e Testes Assíncronos</td>
+    <td><a href="https://github.com/willian-prado/trybe-history#bloco-9---javascript-e-testes-ass%C3%ADncronos">Bloco 9 - JavaScript e Testes Assíncronos</a></td>
     <td><a href="https://github.com/willian-prado/jest">Jest</a></td>
     <td>
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="javascript" width="25" height="25"/></a>
@@ -98,21 +98,21 @@ Aqui estão registrados todos os projetos realizados no curso da Trybe, além de
     </td>
   </tr>
   <tr>
-    <td>Bloco 10 - Introdução à React</td>
+    <td><a href="https://github.com/willian-prado/trybe-history#bloco-10---introdu%C3%A7%C3%A3o-%C3%A0-react">Bloco 10 - Introdução à React</a></td>
     <td><a href="https://github.com/willian-prado/movie-cards-library">Movie Cards Library</a></td>
     <td>
 <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" title="React" alt="react" height="25"/></a>
     </td>
   </tr>
   <tr>
-    <td>Bloco 11 - Componentes com Estado, Eventos e Formulários com React</td>
+    <td><a href="https://github.com/willian-prado/trybe-history#bloco-11---componentes-com-estado-eventos-e-formul%C3%A1rios-com-react">Bloco 11 - Componentes com Estado, Eventos e Formulários com React</a></td>
     <td><a href="https://github.com/willian-prado/movie-cards-library-stateful">Movie Cards Library Stateful</a></td>
     <td>
 <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" title="React" alt="react" height="25"/></a>
     </td>
   </tr>
   <tr>
-    <td>Bloco 12 - Ciclo de Vida de Componentes e React Router</td>
+    <td><a href="https://github.com/willian-prado/trybe-history#bloco-12---ciclo-de-vida-de-componentes-e-react-router">Bloco 12 - Ciclo de Vida de Componentes e React Router</a></td>
     <td><a href="https://github.com/willian-prado/movie-cards-library-crud">Movie Cards Library CRUD</a></td>
     <td>
 <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" title="React" alt="react" height="25"/></a>
@@ -120,7 +120,7 @@ Aqui estão registrados todos os projetos realizados no curso da Trybe, além de
     </td>
   </tr>
    <tr>
-    <td>Bloco 13 - Metodologias Ágeis</td>
+    <td><a href="https://github.com/willian-prado/trybe-history#bloco-13---metodologias-%C3%A1geis">Bloco 13 - Metodologias Ágeis</a></td>
     <td><a href="https://github.com/willian-prado/frontend-online-store">Frontend Online Store</a></td>
     <td>
       <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" title="React" alt="react" height="25"/></a>
@@ -129,7 +129,7 @@ Aqui estão registrados todos os projetos realizados no curso da Trybe, além de
     </td>
   </tr>
    <tr>
-    <td>Bloco 14 - Testes automatizados com React Testing Library</td>
+    <td><a href="https://github.com/willian-prado/trybe-history#bloco-14---testes-automatizados-com-react-testing-library">Bloco 14 - Testes automatizados com React Testing Library</a></td>
     <td><a href="https://github.com/willian-prado/react-testing-library">React Testing Library</a></td>
     <td>
       <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" title="React" alt="react" height="25"/></a>
@@ -139,7 +139,7 @@ Aqui estão registrados todos os projetos realizados no curso da Trybe, além de
     </td>
   </tr>
    <tr>
-    <td>Bloco 15 - Gerenciamento de estado com Redux</td>
+    <td><a href="https://github.com/willian-prado/trybe-history#bloco-15---gerenciamento-de-estado-com-redux">Bloco 15 - Gerenciamento de estado com Redux</a></td>
     <td><a href="https://github.com/willian-prado/trybewallet">Trybewallet</a></td>
     <td>
       <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" title="React" alt="react" height="25"/></a>
@@ -148,7 +148,7 @@ Aqui estão registrados todos os projetos realizados no curso da Trybe, além de
     </td>
   </tr>
   <tr>
-    <td>Bloco 16 - Projeto Jogo de Trivia</td>
+    <td><a href="https://github.com/willian-prado/trybe-history#bloco-16---projeto-jogo-de-trivia">Bloco 16 - Projeto Jogo de Trivia</a></td>
     <td><a href="https://github.com/willian-prado/trivia-react-redux">Trivia</a></td>
     <td>
       <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" title="React" alt="react" height="25"/></a>
@@ -158,14 +158,14 @@ Aqui estão registrados todos os projetos realizados no curso da Trybe, além de
     </td>
   </tr>
   <tr>
-    <td>Bloco 17 - Context API e React Hooks</td>
+    <td><a href="https://github.com/willian-prado/trybe-history#bloco-17---context-api-e-react-hooks">Bloco 17 - Context API e React Hooks</a></td>
     <td><a href="https://github.com/willian-prado/star-wars-planets-search">Star Wars Planets Search</a></td>
     <td>
 <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" title="React" alt="react" height="25"/></a>
     </td>
   </tr>
   <tr>
-    <td>Bloco 18 - Projeto App de Receitas</td>
+    <td><a href="https://github.com/willian-prado/trybe-history#bloco-18---projeto-app-de-receitas">Bloco 18 - Projeto App de Receitas</a></td>
     <td><a href="https://github.com/willian-prado/recipes-app">Recipes App</a></td>
     <td>
 <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" title="React" alt="react" height="25"/></a>
@@ -176,49 +176,49 @@ Aqui estão registrados todos os projetos realizados no curso da Trybe, além de
     </td>
   </tr>
   <tr>
-    <td>Bloco 19 - Introdução à SQL</td>
+    <td><a href="https://github.com/willian-prado/trybe-history#bloco-19---introdu%C3%A7%C3%A3o-%C3%A0-sql">Bloco 19 - Introdução à SQL</a></td>
     <td><a href="https://github.com/willian-prado/mysql-all-for-one">All For One</a></td>
     <td>
  <a href="https://www.mysql.com/"><img src="https://icon-library.com/images/mysql-icon/mysql-icon-3.jpg" title="MySQL" alt="mysql" height="25"/></a>
     </td>
   </tr>
   <tr>
-    <td>Bloco 20 - Funções SQL, JOINs e Normalização</td>
+    <td><a href="https://github.com/willian-prado/trybe-history#bloco-20---fun%C3%A7%C3%B5es-sql-joins-e-normaliza%C3%A7%C3%A3o">Bloco 20 - Funções SQL, JOINs e Normalização</a></td>
     <td><a href="https://github.com/willian-prado/mysql-vocabulary-booster">Vocabulary Booster</a></td>
     <td>
  <a href="https://www.mysql.com/"><img src="https://icon-library.com/images/mysql-icon/mysql-icon-3.jpg" title="MySQL" alt="mysql" height="25"/></a>
     </td>
   </tr>
   <tr>
-    <td>Bloco 21 - Normalização e Modelagem de Banco de Dados</td>
+    <td><a href="https://github.com/willian-prado/trybe-history#bloco-21---normaliza%C3%A7%C3%A3o-e-modelagem-de-banco-de-dados">Bloco 21 - Normalização e Modelagem de Banco de Dados</a></td>
     <td><a href="https://github.com/willian-prado/mysql-one-for-all">One For All</a></td>
     <td>
  <a href="https://www.mysql.com/"><img src="https://icon-library.com/images/mysql-icon/mysql-icon-3.jpg" title="MySQL" alt="mysql" height="25"/></a>
     </td>
   </tr>
   <tr>
-    <td>Bloco 22 - Introdução ao MongoDB</td>
+    <td><a href="https://github.com/willian-prado/trybe-history#bloco-22---introdu%C3%A7%C3%A3o-ao-mongodb">Bloco 22 - Introdução ao MongoDB</a></td>
     <td><a href="https://github.com/willian-prado/mongodb-dataflights">DataFlights</a></td>
     <td>
  <a href="https://www.mongodb.com/"><img src="https://www.svgrepo.com/show/331488/mongodb.svg" title="MongoDB" alt="mongodb" height="22"/></a>
     </td>
   </tr>
   <tr>
-    <td>Bloco 23 - MongoDB: Updates Simples e Complexos</td>
+    <td><a href="https://github.com/willian-prado/trybe-history#bloco-23---mongodb-updates-simples-e-complexos">Bloco 23 - MongoDB: Updates Simples e Complexos</a></td>
     <td><a href="https://github.com/willian-prado/mongodb-commerce">Commerce</a></td>
     <td>
  <a href="https://www.mongodb.com/"><img src="https://www.svgrepo.com/show/331488/mongodb.svg" title="MongoDB" alt="mongodb" height="22"/></a>
     </td>
   </tr>
   <tr>
-    <td>Bloco 24 - MongoDB: Aggregation Framework</td>
+    <td><a href="https://github.com/willian-prado/trybe-history#bloco-24---mongodb-aggregation-framework">Bloco 24 - MongoDB: Aggregation Framework</a></td>
     <td><a href="https://github.com/willian-prado/mongodb-aggregations">Aggregations</a></td>
     <td>
  <a href="https://www.mongodb.com/"><img src="https://www.svgrepo.com/show/331488/mongodb.svg" title="MongoDB" alt="mongodb" height="22"/></a>
     </td>
   </tr>
   <tr>
-    <td>Bloco 25 - Introdução ao desenvolvimento Web com Node.js</td>
+    <td><a href="https://github.com/willian-prado/trybe-history#bloco-25---introdu%C3%A7%C3%A3o-ao-desenvolvimento-web-com-nodejs">Bloco 25 - Introdução ao desenvolvimento Web com Node.js</a></td>
     <td><a href="https://github.com/willian-prado/talker-manager">Talker Manager</a></td>
     <td>
 <a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="nodejs" width="25" height="25"/></a>
@@ -226,7 +226,7 @@ Aqui estão registrados todos os projetos realizados no curso da Trybe, além de
     </td>
   </tr>
   <tr>
-    <td>Bloco 26 - Node.js: Camada de Serviço e Arquitetura Rest e Restful</td>
+    <td><a href="https://github.com/willian-prado/trybe-history#bloco-26---nodejs-camada-de-servi%C3%A7o-e-arquitetura-rest-e-restful">Bloco 26 - Node.js: Camada de Serviço e Arquitetura Rest e Restful</a></td>
     <td><a href="https://github.com/willian-prado/store-manager">Store Manager</a></td>
     <td>
 <a href="https://www.mongodb.com/"><img src="https://www.svgrepo.com/show/331488/mongodb.svg" title="MongoDB" alt="mongodb" height="22"/></a>      
@@ -235,7 +235,7 @@ Aqui estão registrados todos os projetos realizados no curso da Trybe, além de
     </td>
   </tr>
   <tr>
-    <td>Bloco 27 - Autenticação e Upload de Arquivos</td>
+    <td><a href="https://github.com/willian-prado/trybe-history#bloco-27---autentica%C3%A7%C3%A3o-e-upload-de-arquivos">Bloco 27 - Autenticação e Upload de Arquivos</a></td>
     <td><a href="https://github.com/willian-prado/cookmaster">Cookmaster</a></td>
     <td>
 <a href="https://www.mongodb.com/"><img src="https://www.svgrepo.com/show/331488/mongodb.svg" title="MongoDB" alt="mongodb" height="22"/></a>    
@@ -245,7 +245,7 @@ Aqui estão registrados todos os projetos realizados no curso da Trybe, além de
     </td>
   </tr>
   <tr>
-    <td>Bloco 28 - Deployment</td>
+    <td><a href="https://github.com/willian-prado/trybe-history#bloco-28---deployment">Bloco 28 - Deployment</a></td>
     <td><a href="https://github.com/willian-prado/stranger-things">Stranger Things</a></td>
     <td>
 <a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="nodejs" width="25" height="25"/></a>
@@ -255,7 +255,7 @@ Aqui estão registrados todos os projetos realizados no curso da Trybe, além de
     </td>
   </tr>
   <tr>
-    <td>Bloco 29 - Arquitetura: SOLID e ORM</td>
+    <td><a href="https://github.com/willian-prado/trybe-history#bloco-29---arquitetura-solid-e-orm">Bloco 29 - Arquitetura: SOLID e ORM</a></td>
     <td><a href="https://github.com/willian-prado/blogs-api">Blogs API</a></td>
     <td>
 <a href="https://www.mysql.com/"><img src="https://icon-library.com/images/mysql-icon/mysql-icon-3.jpg" title="MySQL" alt="mysql" height="25"/></a>
@@ -266,7 +266,7 @@ Aqui estão registrados todos os projetos realizados no curso da Trybe, além de
     </td>
   </tr>
   <tr>
-    <td>Bloco 30 - Sockets</td>
+    <td><a href="https://github.com/willian-prado/trybe-history#bloco-30---sockets">Bloco 30 - Sockets</a></td>
     <td><a href="https://github.com/willian-prado/webchat">Webchat</a></td>
     <td>
 <a href="https://www.mongodb.com/"><img src="https://www.svgrepo.com/show/331488/mongodb.svg" title="MongoDB" alt="mongodb" height="22"/></a>    
@@ -276,7 +276,7 @@ Aqui estão registrados todos os projetos realizados no curso da Trybe, além de
     </td>
   </tr>
   <tr>
-    <td>Bloco 31 - Projeto - App de Delivery</td>
+    <td><a href="https://github.com/willian-prado/trybe-history#bloco-31---projeto---app-de-delivery">Bloco 31 - Projeto - App de Delivery</a></td>
     <td><a href="https://github.com/willian-prado/delivery-app">Delivery App</a></td>
     <td>
 <a href="https://www.mysql.com/"><img src="https://icon-library.com/images/mysql-icon/mysql-icon-3.jpg" title="MySQL" alt="mysql" height="25"/></a>
@@ -289,40 +289,40 @@ Aqui estão registrados todos os projetos realizados no curso da Trybe, além de
     </td>
   </tr>
   <tr>
-    <td>Bloco 32 - Introdução à Python</td>
+    <td><a href="https://github.com/willian-prado/trybe-history#bloco-32---introdu%C3%A7%C3%A3o-%C3%A0-python">Bloco 32 - Introdução à Python</a></td>
     <td><a href="https://github.com/willian-prado/job-insights">Job Insights</a></td>
     <td>
 <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" alt="python" height="30"/></a>
     </td>
   </tr>
   <tr>
-    <td>Bloco 33 - Programação Orientada a Objetos e Padrões de Projeto</td>
+    <td><a href="https://github.com/willian-prado/trybe-history#bloco-33---programa%C3%A7%C3%A3o-orientada-a-objetos-e-padr%C3%B5es-de-projeto">Bloco 33 - Programação Orientada a Objetos e Padrões de Projeto</a></td>
     <td><a href="https://github.com/willian-prado/inventory-reports">Inventory Reports</a></td>
     <td>
 <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" alt="python" height="30"/></a> 
     </td>
   </tr>
   <tr>
-    <td>Bloco 34 - Redes e Raspagem de Dados</td>
+    <td><a href="https://github.com/willian-prado/trybe-history#bloco-34---redes-e-raspagem-de-dados">Bloco 34 - Redes e Raspagem de Dados</a></td>
     <td><a href="https://github.com/willian-prado/tech-news">Tech News</a></td>
     <td>
-<a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" alt="python" height="30"/></a> 
+<a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" alt="python" height="30"/></a>
     </td>
   </tr>
   <tr>
-    <td>Bloco 35 - Algoritmos</td>
+    <td><a href="https://github.com/willian-prado/trybe-history#bloco-35---algoritmos">Bloco 35 - Algoritmos</a></td>
     <td><a href="https://github.com/willian-prado/algorithms">Algorithms</a></td>
     <td>
 <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" alt="python" height="30"/></a></td>
   </tr>
   <tr>
-    <td>Bloco 36 - Estrutura de Dados I: Arrays, Hashmaps e Sets</td>
+    <td><a href="https://github.com/willian-prado/trybe-history#bloco-36---estrutura-de-dados-i-arrays-hashmaps-e-sets">Bloco 36 - Estrutura de Dados I: Arrays, Hashmaps e Sets</a></td>
     <td><a href="https://github.com/willian-prado/restaurant-orders">Restaurant Orders</a></td>
     <td>
 <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" alt="python" height="30"/></a></td>
   </tr>
   <tr>
-    <td>Bloco 37 - Estrutura de Dados II: Listas, Filas e Pilhas</td>
+    <td><a href="https://github.com/willian-prado/trybe-history#bloco-37---estrutura-de-dados-ii-listas-filas-e-pilhas">Bloco 37 - Estrutura de Dados II: Listas, Filas e Pilhas</a></td>
     <td><a href="https://github.com/willian-prado/trybe-is-not-google">Trybe Is Not Google</a></td>
     <td>
 <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" alt="python" height="30"/></a></td>
@@ -367,7 +367,7 @@ Estudamos as principais tags HTML, como usar CSS para estilização e a importâ
 
 #### Bloco 4 - Introdução à JavaScript e Lógica de Programação
 
-Primeiro contato com JavaScript, aprendemos sobre variáveis, constantes , tipos primitivos, tipagem dinâmica, operadores aritméticos, operadores de atribuição, operadores lógicos, estruturas condicionais, lógica de programação, estruturas de repetição e mais.
+Primeiro contato com JavaScript, aprendemos sobre variáveis, constantes, tipos primitivos, tipagem dinâmica, operadores aritméticos, operadores de atribuição, operadores lógicos, estruturas condicionais, lógica de programação, estruturas de repetição e mais.
 
 > Projeto individual: **[Playground Functions](https://github.com/willian-prado/playground-functions)** - Tecnologias:
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="javascript" width="25" height="25"/></a>
@@ -397,7 +397,7 @@ Construção de formulários HTML, uso de bibliotecas JavaScript e CSS, introdu�
 
 #### Bloco 7 - Introdução à JavaScript ES6 e Testes Unitários
 
-Vimos sobre o uso de features introduzidas na versão ES6 do JavaScript, como `let`, `const`, `arrow functions`, `template literals`, `operador ternário`. Além disso, aprendemos métodos de manipulação de objetos e construção dos primeiros testes automatizados usando o módulo Assert.
+Estudamos sobre as features introduzidas na versão ES6 do JavaScript, como `let`, `const`, `arrow functions`, `template literals`, `operador ternário`. Além disso, aprendemos métodos de manipulação de objetos e construção dos primeiros testes automatizados usando o módulo Assert.
 
 > Projeto individual: **[Js Unit Tests](https://github.com/willian-prado/js-unit-tests)** - Tecnologias:
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="javascript" width="25" height="25"/></a>
@@ -484,7 +484,7 @@ Fomos introduzidos ao uso de testes automatizados com RTL (React Testing Library
 
 #### Bloco 15 - Gerenciamento de estado com Redux
 
-Introdução à Redux, uma biblioteca de gerenciamento do estado global de ampla adoção entre as pessoas que desenvolvem em React.
+Introdução ao Redux, uma biblioteca de gerenciamento do estado global de ampla adoção entre as pessoas que desenvolvem em React.
 
 > Projeto individual: **[Trybewallet](https://github.com/willian-prado/trybewallet)** - Tecnologias:
 <a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="html5" width="30" height="30"/></a>
@@ -509,7 +509,7 @@ Prática de metodologias ágeis, soft skills e React-Redux.
 
 #### Bloco 17 - Context API e React Hooks
 
-Introdução à funcionalidades mais avançadas em React, como: Context API, para gerenciamento do estado global da aplicação, e React Hooks, que permitem a utilização de componentes funcionais com estado e outras funcionalidades.
+Introdução às funcionalidades mais avançadas em React, como: Context API, para gerenciamento do estado global da aplicação; e React Hooks, que permite a utilização de componentes funcionais com estado e outras funcionalidades.
 
 > Projeto individual: **[Star Wars Planets Search](https://github.com/willian-prado/star-wars-planets-search)** - Tecnologias:
 <a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="html5" width="30" height="30"/></a>
@@ -535,7 +535,7 @@ Prática de metodologias ágeis, soft skills, React Hooks, Context API e testes 
 
 #### Bloco 19 - Introdução à SQL
 
-Definições sobre bancos de dados relacionais, utilizando MySQL e MySQL Workbench de forma prática. Uso de comandos básicos, como `SELECT`, `WHERE`, `ORDER BY`, `INSERT`, `UPDATE`, `DELETE`.
+Introdução aos bancos de dados relacionais, utilizando MySQL e MySQL Workbench de forma prática. Uso de comandos básicos, como `SELECT`, `WHERE`, `ORDER BY`, `INSERT`, `UPDATE`, `DELETE`.
 
 > Projeto individual: **[All For One](https://github.com/willian-prado/mysql-all-for-one)** - Tecnologias:
 <a href="https://www.mysql.com/"><img src="https://icon-library.com/images/mysql-icon/mysql-icon-3.jpg" title="MySQL" alt="mysql" height="30"/></a>
@@ -580,7 +580,7 @@ Introdução ao Aggregation Framework, conjunto de ferramentas modelado sob o co
 
 #### Bloco 25 - Introdução ao desenvolvimento Web com Node.js
 
-Introdução ao`NodeJS` e NPM, leitura e escrita de arquivos com o módulo `fs` de forma síncrona e assíncrona e construção de testes para NodeJS usando Mocha, Chai e Sinon. Além disso, dar os primeiros passos com um dos frameworks mais utilizados para construção de APIs em NodeJS, o `Express`.
+Introdução ao`NodeJS` e NPM, leitura e escrita de arquivos com o módulo `fs` de forma síncrona e assíncrona e construção de testes para NodeJS usando Mocha, Chai e Sinon. Além disso, damos os primeiros passos com um dos frameworks mais utilizados para construção de APIs em NodeJS, o `Express`.
 
 > Projeto individual: **[Talker Manager](https://github.com/willian-prado/talker-manager)** - Tecnologias:
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="javascript" width="25" height="25"/></a>
@@ -634,7 +634,7 @@ Ainda, introdução ao ORM (object relational mapping) Sequelize. Os ORMs permit
 
 #### Bloco 30 - Sockets
 
-Introdução ao padrão arquitetural MVC (Model-View-Controller) utilizando EJS (Embedded JavaScript) como *template engine* e ao pacote Socket.io - uma ferramenta usada para criar aplicações em tempo-real, como aplicativos de mensagens instantâneas, streaming e colaboração em documentos.
+Apresentação ao padrão arquitetural MVC (Model-View-Controller) utilizando EJS (Embedded JavaScript) como *template engine* e ao pacote Socket.io - uma ferramenta usada para criar aplicações em tempo-real, como aplicativos de mensagens instantâneas, streaming e colaboração em documentos.
 
 > Projeto individual: **[Webchat](https://github.com/willian-prado/webchat)** - Tecnologias:
 <a href="https://www.mongodb.com/"><img src="https://www.svgrepo.com/show/331488/mongodb.svg" title="MongoDB" alt="mongodb" height="25"/></a>
@@ -664,7 +664,7 @@ Prática de metodologias ágeis, soft skills, React, Redux, Node, Express, MySQL
 
 #### Bloco 32 - Introdução à Python
 
-Introdução à linguagem de programação Python, desde a sua instalação, configuração do ambiente de desenvolvimento, sintaxe básica e diferentes tipos de variáveis, métodos e principais funções.
+Introdução à linguagem de programação Python, desde a sua instalação, configuração do ambiente de desenvolvimento, sintaxe e principais conceitos, como diferentes tipos de variáveis, métodos e principais funções.
 
 > Projeto individual: **[Job Insights](https://github.com/willian-prado/job-insights)** - Tecnologias:
 <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" alt="python" height="35"/></a> 
@@ -678,15 +678,14 @@ Revisão sobre princípios SOLID e primeiro contato com a abordagem POO (Program
 
 #### Bloco 34 - Redes e Raspagem de Dados
 
-Estudamos os principais conceitos sobre arquitetura de redes e sobre o funcionamento com seus diversos protocolos.
-Aprendemos também técnicas para realizar a raspagem de dados com Python, utilizando as bibliotecas `requests` e `parsel`.
+Estudamos superficialmente alguns tópicos de arquitetura de redes e aprendemos técnicas para realizar a raspagem de dados com Python, utilizando as bibliotecas `requests` e `parsel`.
 
 > Projeto individual: **[Tech News](https://github.com/willian-prado/tech-news)** - Tecnologias:
 <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" alt="python" height="35"/></a> 
 
 #### Bloco 35 - Algoritmos
 
-Introdução ao estudo de complexidade de tempo e espaço em algorítmos, incluindo noções básicas para identificar complexidades linear, quadrática, logaritmica, exponencial e fatorial. Aprendemos também sobre recursividade e algoritmos de ordenação.
+Introdução ao estudo de complexidade de tempo e espaço em algorítmos, incluindo noções básicas para identificar as complexidades constante, linear, quadrática, logaritmica, exponencial e fatorial. Aprendemos também sobre recursividade e algoritmos de ordenação.
 
 > Projeto individual: **[Algorithms](https://github.com/willian-prado/algorithms)** - Tecnologias:
 <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" alt="python" height="35"/></a> 
