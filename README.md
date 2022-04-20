@@ -1,6 +1,6 @@
 # Boas-vindas ao repositório Trybe Records
 
-Aqui está um histórico com todos os projetos realizados no curso da Trybe, além de uma breve descrição do que foi estudado em cada um dos blocos.
+Aqui está um histórico de todos os projetos realizados ao longo do curso da Trybe, além de uma breve descrição do que foi estudado em cada um dos blocos.
 
 <hr>
 
